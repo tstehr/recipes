@@ -5,7 +5,7 @@
 - *300 g* Kürbis, gesäubert und in Scheiben geschnitten
 - *2* Zwiebeln, in Ringe geschnitten
 - *2* Knoblauchzehen, fein gehackt
-- *500 g rote Bohnen aus der Dose, abgetropft
+- *500 g* rote Bohnen aus der Dose, abgetropft
 - *50 g* Paniermehl
 - *1 Bund* Petersilie
 - *3 TL* Olivenöl
