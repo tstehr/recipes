@@ -10,7 +10,7 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 
 - *1,2 kg* mehlige Kartoffeln
 - *1,2 kg* gelbe Zwiebeln für die Soße
-- *1* Knoblauchzehe
+- *2* Knoblauchzehe
 - *2 gehäufte EL* edelsüßes Paprikapulver (20g)
 - *1 gehäufter TL* fruchtiges, halbsüßes Paprikapulver (ersatzweise edelsüß) (4 g) 
 - *1 gehäufter TL* geräuchertes Paprikapulver (alternativ edelsüß und Flüssigrauch o. Ä.)
