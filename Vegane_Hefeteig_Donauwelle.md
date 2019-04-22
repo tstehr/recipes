@@ -4,6 +4,13 @@
 
 ---
 
+## "Butter"-Creme
+
+- *400 ml* Sojamilch
+- *1 Pck.* Puddingpulver (Vanillegeschmack)
+- *125 g* Margarine (z. B. Alsan, zerlassen)
+- Zucker wie auf der Puddingverpackung angegeben
+
 ## Hefeteig
 
 - *400 g* Mehl
@@ -21,13 +28,6 @@
 - *240 g* Zucker
 - *1* Prise Salz 
 
-## "Butter"-Creme
-
-- *400 ml* Sojamilch
-- *1 Pck.* Puddingpulver (Vanillegeschmack)
-- *125 g* Margarine (z. B. Alsan, zerlassen)
-- Zucker wie auf der Puddingverpackung angegeben
-
 ## Belag
 
 - *2* Gläser Kirschen (Schattenmorellen)
@@ -36,11 +36,19 @@
 
 ---
 
-Aus einem Päckchen Puddingpulver, 400 ml Sojamilch (am besten eine Sorte mit nicht zu intensivem Sojageschmack verwenden) und dem benötigten Zucker einen Pudding kochen und die 125 g geschmolzene Margarine unterrühren. Diese "Buttercreme" zum Abkühlen beiseite stellen. Das kann ein paar Stunden dauern, sie muss zur Weiterverwendung fest sein, deswegen: rechtzeitig anfangen.
+## "Butter"-Creme
 
-Als Nächstes den Hefeteig herstellen. Dazu die Hefe in der handwarmen Sojamilch auflösen und mit dem Mehl verkneten. 50 g vorsichtig geschmolzene Margarine und 120 g Zucker zugeben. Alles verkneten. Den Hefeteig zugedeckt an einen warmen Ort stellen und etwa 30 bis 45 Minuten gehen lassen.
+Aus einem Päckchen Puddingpulver, der Sojamilch (am besten eine Sorte mit nicht zu intensivem Sojageschmack verwenden) und dem benötigten Zucker einen Pudding kochen und die geschmolzene Margarine unterrühren. Diese "Buttercreme" zum Abkühlen beiseite stellen. Das kann ein paar Stunden dauern, sie muss zur Weiterverwendung fest sein, deswegen: rechtzeitig anfangen.
 
-Für die Quarkmasse das Kilo Sojajoghurt, die 240 g Zucker, 250 g geschmolzene aber nicht heiße Margarine, das mit den 8 EL Sojamilch angerührte Vanillepuddingpulver und die Prise Salz verrühren.
+## Hefeteig
+
+Die Hefe in der handwarmen Sojamilch auflösen und mit dem Mehl verkneten. Die vorsichtig geschmolzene Margarine und den Zucker zugeben. Alles verkneten. Den Hefeteig zugedeckt an einen warmen Ort stellen und etwa 30 bis 45 Minuten gehen lassen.
+
+## "Quark"-Creme
+
+Für die Quarkmasse den Sojajoghurt, den Zucker, die geschmolzene aber nicht heiße Margarine, das mit der Sojamilch angerührte Vanillepuddingpulver und die Prise Salz verrühren.
+
+## Belag
 
 Den Hefeteig auf einem Backblech ausrollen. (Vorher mit Backpapier auslegen oder einfetten.) Die Sojajoghurtmasse auf den Hefeteig gießen und die abgetropften Schattenmorellen darauf verteilen. Bei 160°C Umluft 30 Minuten backen. Dann das Ganze gut abkühlen lassen. (Sehr wichtig!)
 
