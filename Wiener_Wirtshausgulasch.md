@@ -1,6 +1,6 @@
 # Wiener Wirtshausgulasch
 
-*2,5 Personen*
+**2,5 Personen**
 
 ---
 
@@ -10,8 +10,8 @@
 - *0,3 l* Bier
 - *1 TL* Kümmelsamen - nicht gemahlen, nur leicht gestoßen
 - *1 TL* getrockneter Majoran
-- *40 g* hochwertiges, edelsüßes Paprikapulver  oder Delikatesspaprika aus Ungarn, das sind ungefähr zwei gehäufte EL
-- *1 EL* Rosenpaprika für die Schärfe - wieviel genau hängt vom Grad der Schärfe ab (1 TL - 1 EL), die Sie beabsichtigen; ein Kirschpaprika geht auch
+- *40 g* hochwertiges, edelsüßes Paprikapulver  oder Delikatesspaprika aus Ungarn (20 g ⋍ 1 gehäufter EL)
+- *1 EL* Rosenpaprika für die Schärfe - je nach gewünschtem Grad der Schärfe auch weniger; ein Kirschpaprika geht auch
 - *1 EL* milder Essig
 
 ---
