@@ -12,7 +12,7 @@ Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestell
 - *3* Zwiebel(n)
 - *3* Knoblauchzehe(n)
 - *1 Pck.* Tomaten, passierte
-- *1 kl. Dose* Tomatenmark
+- *70 g* Tomatenmark
 - *1 Glas* Tomate(n), getrocknete, in Öl eingelegt
 - *250 ml* Bier, dunkles
 - *100 ml* Espresso, oder 200 ml starker Kaffee
