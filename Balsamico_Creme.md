@@ -2,12 +2,12 @@
 
 Als einfache Salatsoße, zum Garnieren oder als Brotaufstrich. 
 
-**220 ml**
+**250 ml**
 
 ---
 
 - *450 ml* Balsamico
-- *150 ml* Rotwein
+- *150 ml* Rotwein (oder Balsamico)
 - *2 EL* dunkle Sojasoße
 - *5 EL* Ahornsirup
 - *2 TL* Senf
