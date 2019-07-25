@@ -1,6 +1,6 @@
 # Spinatstrudel mit getrockneten Tomaten und Walnüssen
 
-*Backen, Gemüse, Hauptspeise, Vegan, Vegetarisch*
+*baked, vegetables, main, vegan, vegetarian*
 
 **2 Portionen**
 
