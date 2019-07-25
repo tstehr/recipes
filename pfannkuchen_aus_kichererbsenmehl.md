@@ -1,5 +1,7 @@
 # Pfannkuchen aus Kichererbsenmehl
 
+*vegan, vegetarian*
+
 ---
 
 - *500 ml* Reisdrink natur (alternativ: Sprudelwasser)

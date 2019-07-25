@@ -2,6 +2,8 @@
 
 Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestellt. Danke, dass ich es hier auch verwenden kann!
 
+*vegan, vegetarian*
+
 **6 Portionen**
 
 ---

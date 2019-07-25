@@ -1,6 +1,6 @@
 # Vegane Hefeteig-Donauwelle
 
-*vegan*
+*vegan, vegetarian, baked*
 
 ---
 

@@ -1,5 +1,7 @@
 # Indianerbohnen-Kürbis-Gratin
 
+*fall, vegan, vegetarian*
+
 ---
 
 - *300 g* Kürbis, gesäubert und in Scheiben geschnitten

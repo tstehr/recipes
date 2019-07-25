@@ -1,5 +1,7 @@
 # Wiener Wirtshausgulasch
 
+*beef, stew, fall, winter*
+
 **2,5 Personen**
 
 ---

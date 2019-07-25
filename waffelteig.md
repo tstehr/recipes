@@ -1,6 +1,6 @@
 # Waffelteig
 
-*Backen, Dessert, Kinder, Kuchen*
+*baked, dessert*
 
 **1 Portion**
 

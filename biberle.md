@@ -1,6 +1,6 @@
 # Biberle
 
-*plätzchen, weihnachten, vegetarisch*
+*plätzchen, christmas, vegetarian*
 
 **100 Stück**
 

@@ -2,7 +2,7 @@
 
 Amazing, creamy, flavorful pumpkin mac 'n' cheese made with 10 simple ingredients! The perfect dairy- and gluten-free entrée for fall and the holiday season!
 
-*Entree, Gluten-Free, Italian-Inspired, Vegan*
+*entree, gluten-free, vegan, vegetarian*
 
 **4 as side, 2 as entrée**
 

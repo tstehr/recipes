@@ -2,7 +2,7 @@
 
 You don’t need lots of eggs to make delicious spaetzle. Try these egg-free, vegan spaetzle and your mind will be blown. Using a spaetzle maker is advised.
 
-*Main Course, Austrian, Vegan, cheesy vegan spaetzle, egg-free spaetzle, vegan spaetzle*
+*austrian, vegan, vegetarian, egg-free*
 
 **2 people**
 

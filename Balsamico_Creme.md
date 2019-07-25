@@ -2,6 +2,8 @@
 
 Als einfache Salatsoße, zum Garnieren oder als Brotaufstrich. 
 
+*vegetarian, vegan*
+
 **250 ml**
 
 ---
