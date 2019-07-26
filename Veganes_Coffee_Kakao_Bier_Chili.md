@@ -1,4 +1,4 @@
-# Coffee-Kakao-Bier-Chili (vegane Version)
+# Veganes Coffee-Kakao-Bier-Chili
 
 Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestellt. Danke, dass ich es hier auch verwenden kann!
 

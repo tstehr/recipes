@@ -1,4 +1,4 @@
-# Quick and Easy Homemade Ricotta Gnocchi Recipe
+# Quick and Easy Homemade Ricotta Gnocchi
 
 I love gnocchi. At least, I love the gnocchi in my mind. Light, pillowy, flavor-packed, they're the perfect vessel for a good red sauce. The big problem? Potato gnocchi take a long time and are far from foolproof.
 

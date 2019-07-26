@@ -1,6 +1,6 @@
-# Creamy Pumpkin Mac 'n' Cheese
+# Creamy Pumpkin Mac'n'Cheese
 
-Amazing, creamy, flavorful pumpkin mac 'n' cheese made with 10 simple ingredients! The perfect dairy- and gluten-free entrée for fall and the holiday season!
+Amazing, creamy, flavorful pumpkin mac'n'cheese made with 10 simple ingredients! The perfect dairy- and gluten-free entrée for fall and the holiday season!
 
 *entree, gluten-free, vegan, vegetarian*
 

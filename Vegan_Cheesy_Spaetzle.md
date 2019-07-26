@@ -1,4 +1,4 @@
-# Cheesy Spaetzle (vegan, egg-free)
+# Vegan Cheesy Spaetzle
 
 You don’t need lots of eggs to make delicious spaetzle. Try these egg-free, vegan spaetzle and your mind will be blown. Using a spaetzle maker is advised.
 
