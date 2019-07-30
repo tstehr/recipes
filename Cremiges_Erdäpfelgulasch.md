@@ -2,7 +2,7 @@
 
 Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 
-*vegan, vegetarian, austrian*
+*vegan, vegetarian, austrian, stew, fall, winter*
 
 **5 Personen**
 
