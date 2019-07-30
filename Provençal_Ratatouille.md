@@ -4,7 +4,7 @@ This classic Provençal summer stew features eggplant, summer squash, bell peppe
 
 <img src="https://www.seriouseats.com/recipes/images/2015/08/20150803-ratatouille-vicky-wasik-8.jpg" />
 
-*vegetarian, sides, mains, french, summer, vegan*
+*vegetarian, side, main, french, summer, vegan*
 
 **2 l**
 
@@ -19,6 +19,8 @@ This classic Provençal summer stew features eggplant, summer squash, bell peppe
 - *800g* canned whole tomatoes, with their juices, pureed
 - *1* bouquet garni (herb bundle), made from fresh herbs such as thyme, parsley, and basil, tied together with butcher's twine
 - Chopped fresh parsley leaves and tender stems, for garnish (optional)
+- *15 ml* balsamico
+- *10 g* sugar
 - Kosher salt
 - Freshly ground black pepper
 
@@ -36,6 +38,6 @@ Add another ¼ of the olive oil to skillet and heat over medium-high heat until 
 
 Add remaining ¼ of the olive oil to skillet and heat over medium-high heat until shimmering. Add eggplant and cook, stirring, until softened, about 4 minutes; add more olive oil as needed if skillet dries out while cooking eggplant. Scrape eggplant into pot with other vegetables and stir to combine.
 
-Set pot of vegetables over medium-high heat and stir in tomato puree and herb bundle; heat until ratatouille is gently bubbling, then lower heat to medium and cook, stirring, until tomato puree coats vegetables in a thick sauce, about 15 minutes. Discard herb bundle. Season with salt, stir in chopped parsley (if using), and drizzle with a small amount of fresh extra-virgin olive oil. Serve right away, or chill and serve either reheated, slightly chilled, or at room temperature.
+Set pot of vegetables over medium-high heat and stir in tomato puree and herb bundle; heat until ratatouille is gently bubbling, then lower heat to medium and cook, stirring, until tomato puree coats vegetables in a thick sauce, about 15 minutes. Discard herb bundle. Season with salt, pepper, sugar, and balsamico. Stir in chopped parsley (if using), and drizzle with a small amount of fresh extra-virgin olive oil. Serve right away, or chill and serve either reheated, slightly chilled, or at room temperature.
 
 Source: [seriouseats.com](https://www.seriouseats.com/recipes/2015/08/ratatouille-provence-vegetable-stew-recipe.html)
