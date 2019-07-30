@@ -18,7 +18,7 @@ This classic Provençal summer stew features eggplant, summer squash, bell peppe
 - *4* large red and yellow bell peppers
 - *800g* canned whole tomatoes, with their juices, pureed
 - *1* bouquet garni (herb bundle), made from fresh herbs such as thyme, parsley, and basil, tied together with butcher's twine
-- Chopped fresh parsley leaves and tender stems, for garnish (optional)
+- *30 g* fresh parsley
 - *15 ml* balsamico
 - *10 g* sugar
 - Kosher salt
