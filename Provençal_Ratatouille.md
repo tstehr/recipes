@@ -6,7 +6,7 @@ This classic Provençal summer stew features eggplant, summer squash, bell peppe
 
 *vegetarian, side, main, french, summer, vegan*
 
-**2 l**
+**2 l, 5 servings**
 
 ---
 

@@ -10,14 +10,14 @@ Leftover sauce? Bring a pot of water to boil: It’s pasta night.
 
 ## Ragù
 
-- *3 pounds* skinless, boneless pork shoulder (Boston butt), cut into 1 pound pieces
+- *1.5 kg* skinless, boneless pork shoulder (Boston butt), cut into 1 pound pieces
 - Kosher salt and freshly ground black pepper
-- *1 tablespoon* vegetable oil
-- *1* large onion, finely chopped
+- *15 ml* vegetable oil
+- *100g* onion, finely chopped
 - *6* garlic cloves, finely chopped
-- *2* tablespoons tomato paste
-- *½ cup* full-bodied red wine
-- *1* 28-ounce can whole peeled tomatoes
+- *30 g* tablespoons tomato paste
+- *150 ml* full-bodied red wine
+- *800g* canned whole peeled tomatoes
 - *4 sprigs* thyme
 - *2 sprigs* rosemary
 - *2* bay leaves
@@ -25,12 +25,12 @@ Leftover sauce? Bring a pot of water to boil: It’s pasta night.
 ## Polenta and Assembly
 
 - Kosher salt
-- *1 ½ cups* coarse polenta (not quick-cooking)
-- *¼ cup* unsalted butter
-- *½ cup* grated Parmesan (from about 2 ounces), plus more for serving
+- *400 g* coarse polenta (not quick-cooking)
+- *60 g* unsalted butter
+- *80 g* grated Parmesan (from about 2 ounces), plus more for serving
 - Freshly ground black pepper
-- *½ cup* chopped fresh parsley
-- Olive oil (for drizzling)
+- *25 g* chopped fresh parsley
+- *15 ml* Olive oil (for drizzling)
 
 ---
 
@@ -48,7 +48,7 @@ Using 2 forks, break up pork into pieces or shred it (your choice!); taste and s
 
 Pork can be cooked 5 days ahead. Let cool; cover and chill in sauce.
 
-Polenta and assembly: Bring 6 cups salted water to a boil in a large pot. Whisking constantly, gradually add polenta; reduce heat to medium-low. Cook, whisking often, until polenta is tender and creamy, 20–25 minutes (if polenta becomes too thick too soon, loosen mixture by adding more water and continue cooking). Add butter and ½ cup Parmesan to polenta and whisk until melted; season with salt and pepper.
+Polenta and assembly: Bring water (4 times of polenta by volume) salted water to a boil in a large pot. Whisking constantly, gradually add polenta; reduce heat to medium-low. Cook, whisking often, until polenta is tender and creamy, 20–25 minutes (if polenta becomes too thick too soon, loosen mixture by adding more water and continue cooking). Add butter and Parmesan to polenta and whisk until melted; season with salt and pepper.
 
 Spoon polenta into bowls or onto a platter and top with pork. Scatter parsley and more Parmesan over top and drizzle with oil.
 
