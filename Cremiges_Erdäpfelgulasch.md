@@ -10,15 +10,15 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 
 - *1,2 kg* mehlige Kartoffeln
 - *1,2 kg* gelbe Zwiebeln für die Soße
-- *2* Knoblauchzehe
-- *2 gehäufte EL* edelsüßes Paprikapulver (20g)
-- *1 gehäufter TL* fruchtiges, halbsüßes Paprikapulver (ersatzweise edelsüß) (4 g) 
-- *1 gehäufter TL* geräuchertes Paprikapulver (alternativ edelsüß und Flüssigrauch o. Ä.)
-- *1 EL* Essig (beliebiger)
-- *1 1/2 EL* Tomatenmark (20 g) 
+- *2* Knoblauchzehen
+- *20 g* edelsüßes Paprikapulver (10g ≃ 1 EL)
+- *4 g* fruchtiges, halbsüßes Paprikapulver (ersatzweise edelsüß) (4g ≃ 1 TL)
+- *4 g* geräuchertes Paprikapulver (alternativ edelsüß und Flüssigrauch o. Ä.) (4g ≃ 1 TL)
+- *15 ml* Essig (beliebiger)
+- *20 g* Tomatenmark (20 g) 
 - *1 leicht gehäufter TL* getrockneter Majoran, gerebelt
 - *2* bunte Paprika
-- *4* Zwiebeln als Einlage
+- *300 g* Zwiebeln als Einlage
 - *2 TL* Kümmel[0], im Mörser mittelfein zerstoßen
 - *1 TL* Koriandersamen[0], im Mörser mittelfein zerstoßen
 - *1/2 TL* Zucker
@@ -26,8 +26,7 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 - *2* Lorbeerblätter
 - *1/2 l* Gemüsebrühe-Pulver
 - *1/2 TL* frisch gemahlener, schwarzer Pfeffer
-- heißes Wasser
-- Butterschmalz oder Öl zum Braten 
+- *100 ml* Öl zum Braten 
 - *250 g* Schmand oder Creme Fraiche
 - *1/4 Bund* gemischte Kräuter (z.B. Petersilie, Schnittlauch)
 - *1* Frühlingszwiebel
