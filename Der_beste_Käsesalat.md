@@ -10,7 +10,7 @@
 - *150 g* Schmelzkäse (Sahne oder Holländer)
 - *150 g* sauer eingelegtes Paprika
 - *150 g* Erbsen aus der Dose
-- *50 g* Salami in dünnen Scheiben oder ½ Packung Fleischsalat
+- *50 g* Salami in dünnen Scheiben (oder je 100g Salami durch 1 Packung Fleischsalat ersetzen)
 - *4 EL* Mayonnaise
 - *2 EL* Tomatenketchup
 - *1/2 TL* Senf
