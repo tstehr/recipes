@@ -4,21 +4,21 @@
 
 ## Fleischig
 
-- *80 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
+- *120 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
 
-### [80 Personen Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
+### [120 Personen Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
 
-- *20 kg* Wadschunken (Hesse/Beinscheibe) vom Rind
-- *1000 g* Butterschmalz
-- *1000 ml* neutrales Bratöl
-- *20 kg* Zwiebeln (Fleisch zu Zwiebel im Verhältnis 1:1) - keine roten Zwiebeln
-- *100 g* weißer Kristallzucker
-- *6 l* Bier (dunkles)
-- *20 TL* Kümmelsamen - nicht gemahlen, nur leicht gestoßen
-- *20 TL* getrockneter Majoran
-- *800 g* hochwertiges, edelsüßes Paprikapulver  oder Delikatesspaprika aus Ungarn (20 g ⋍ 1 gehäufter EL)
-- *400 g* Rosenpaprika für die Schärfe - je nach gewünschtem Grad der Schärfe auch weniger; ein Kirschpaprika geht auch
-- *300 ml* milder Essig
+- *30 kg* Wadschunken (Hesse/Beinscheibe) vom Rind
+- *1500 g* Butterschmalz
+- *1500 ml* neutrales Bratöl
+- *30 kg* Zwiebeln (Fleisch zu Zwiebel im Verhältnis 1:1) - keine roten Zwiebeln
+- *150 g* weißer Kristallzucker
+- *9 l* Bier (dunkles)
+- *30 TL* Kümmelsamen - nicht gemahlen, nur leicht gestoßen
+- *30 TL* getrockneter Majoran
+- *1200 g* hochwertiges, edelsüßes Paprikapulver  oder Delikatesspaprika aus Ungarn (20 g ⋍ 1 gehäufter EL)
+- *600 g* Rosenpaprika für die Schärfe - je nach gewünschtem Grad der Schärfe auch weniger; ein Kirschpaprika geht auch
+- *450 ml* milder Essig
 
 ## Vegetarisch/Vegan
 
@@ -51,7 +51,7 @@
 
 ---
 
-## [80 Personen Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
+## [120 Personen Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
 
 Quelle: [Frau Ziii](https://www.ziiikocht.at/2013/01/wiener-wirtshausgulasch-aus-dem.html)
 

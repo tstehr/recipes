@@ -9,7 +9,7 @@ Als Stärkebeilage traditionell Semmeln, alternativ geht aber auch Kartoffeln, N
 ---
 
 - *1 kg* Wadschunken (Hesse/Beinscheibe) vom Rind
-- *50 g* Butterschmalz
+- *50 g* Schweineschmalz
 - *50 ml* neutrales Bratöl
 - *1 kg* Zwiebeln (Fleisch zu Zwiebel im Verhältnis 1:1) - keine roten Zwiebeln
 - *5 g* weißer Kristallzucker

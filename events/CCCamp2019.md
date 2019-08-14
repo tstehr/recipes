@@ -4,8 +4,8 @@
 
 ## Fleischig
 
-- *80 Personen* [Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
-- *80 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
+- *120 Personen* [Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
+- *120 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
 
 ## Vegetarisch/Vegan
 

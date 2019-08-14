@@ -15,7 +15,7 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 - *4 g* fruchtiges, halbsüßes Paprikapulver (ersatzweise edelsüß) (4g ≃ 1 TL)
 - *4 g* geräuchertes Paprikapulver (alternativ edelsüß und Flüssigrauch o. Ä.) (4g ≃ 1 TL)
 - *15 ml* Essig (beliebiger)
-- *20 g* Tomatenmark (20 g) 
+- *20 g* Tomatenmark (15g ≃ 1 EL)
 - *1 leicht gehäufter TL* getrockneter Majoran, gerebelt
 - *2* bunte Paprika
 - *300 g* Zwiebeln als Einlage
