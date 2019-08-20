@@ -4,12 +4,12 @@
 
 ## Fleischig
 
-- *120 Personen* [Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
-- *120 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
+- *130 Personen* [Wiener Wirtshausgulasch](../Wiener_Wirtshausgulasch.md)
+- *130 Personen* Stärkebeilage (z.B. Semmeln, Spätzle, Semmelknödel)
 
 ## Vegetarisch/Vegan
 
-- *20 Personen* [Cremiges Erdäpfelgulasch](../Cremiges_Erdäpfelgulasch.md)
-- *500 g* Sojajoghurt (ungesüßt!)
+- *40 Personen* [Cremiges Erdäpfelgulasch](../Cremiges_Erdäpfelgulasch.md)
+- *750 g* Sojajoghurt (ungesüßt!)
 
 

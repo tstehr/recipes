@@ -19,13 +19,13 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 - *1 leicht gehäufter TL* getrockneter Majoran, gerebelt
 - *2* bunte Paprika
 - *300 g* Zwiebeln als Einlage
-- *2 TL* Kümmel[0], im Mörser mittelfein zerstoßen
-- *1 TL* Koriandersamen[0], im Mörser mittelfein zerstoßen
-- *1/2 TL* Zucker
-- *1/2 TL* Salz
+- *30 g* Kümmel[0], im Mörser mittelfein zerstoßen (15 g ⋍ 1 EL)
+- *30 g* Koriandersamen[0], im Mörser mittelfein zerstoßen (15 g ⋍ 1 EL)
+- *20 g* Zucker
+- *20 g* Salz
 - *2* Lorbeerblätter
 - *1/2 l* Gemüsebrühe-Pulver
-- *1/2 TL* frisch gemahlener, schwarzer Pfeffer
+- *70 g* frisch gemahlener, schwarzer Pfeffer (15 g ⋍ 1 EL)
 - *100 ml* Öl zum Braten 
 - *250 g* Schmand oder Creme Fraiche
 - *1/4 Bund* gemischte Kräuter (z.B. Petersilie, Schnittlauch)
