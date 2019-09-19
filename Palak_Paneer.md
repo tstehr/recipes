@@ -1,6 +1,6 @@
 # Palak Paneer
 
-*indian, vegan, vegetarian*
+*indian, vegetarian*
 
 **4 Portionen**
 
