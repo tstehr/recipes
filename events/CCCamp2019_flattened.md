@@ -24,7 +24,7 @@
 
 - *750 g* Sojajoghurt (ungesüßt!)
 
-### [40 Personen Cremiges Erdäpfelgulasch](../Cremiges_Erd%C3%A4pfelgulasch.md)
+### [40 Personen Cremiges Erdäpfelgulasch](../Cremiges_Erdaepfelgulasch.md)
 
 - *9.6 kg* mehlige Kartoffeln
 - *9.6 kg* gelbe Zwiebeln für die Soße

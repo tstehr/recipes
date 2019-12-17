@@ -9,7 +9,7 @@
 
 ## Vegetarisch/Vegan
 
-- *40 Personen* [Cremiges Erdäpfelgulasch](../Cremiges_Erdäpfelgulasch.md)
+- *40 Personen* [Cremiges Erdäpfelgulasch](../Cremiges_Erdaepfelgulasch.md)
 - *750 g* Sojajoghurt (ungesüßt!)
 
 
