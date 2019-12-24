@@ -11,7 +11,7 @@
 - *1 Handvoll* Walnüsse
 - *2* Knoblauchzehe(n)
 - *etwas* Olivenöl
-- *200 g* Blattspinat, frisch
+- *200 g* Blattspinat, TK oder frisch
 - *1* Zwiebel(n)
 - *etwas* Gemüsebrühe zum Ablöschen
 - Salz
