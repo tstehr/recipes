@@ -2,7 +2,7 @@
 
 *baked, vegetables, main, vegan, vegetarian*
 
-**2 Portionen**
+**3 Portionen**
 
 ---
 
@@ -11,7 +11,7 @@
 - *1 Handvoll* Walnüsse
 - *2* Knoblauchzehe(n)
 - *etwas* Olivenöl
-- *200 g* Blattspinat, TK oder frisch
+- *350 g* Blattspinat, TK oder frisch
 - *1* Zwiebel(n)
 - *etwas* Gemüsebrühe zum Ablöschen
 - Salz
@@ -19,9 +19,9 @@
 
 ---
 
-Zuerst die Tomaten, die Walnüsse, eine Knoblauchzehe und einen guten Schuss Olivenöl in einen Mixer geben und daraus ein Pesto herstellen. Mit Salz und Pfeffer würzen.
+Zuerst die Tomaten, die Walnüsse, die Hälfte des Knoblauchs und einen guten Schuss Olivenöl in einen Mixer geben und daraus ein Pesto herstellen. Mit Salz und Pfeffer würzen.
 
-Danach Zwiebel und Knoblauch würfeln, in etwas Olivenöl in einer Pfanne glasig dünsten und mit ein wenig Gemüsebrühe ablöschen. Dann Spinat dazugeben und einige Minuten mitdünsten, bis er zusammenfällt. Mit Salz und Pfeffer würzen.
+Danach Zwiebel und restlichen Knoblauch würfeln, in etwas Olivenöl in einer Pfanne glasig dünsten und mit ein wenig Gemüsebrühe ablöschen. Dann Spinat dazugeben und einige Minuten mitdünsten, bis er zusammenfällt. Mit Salz und Pfeffer würzen.
 
 Den Blätterteig auf einem Backblech ausbreiten und großzügig mit dem Tomatenpesto bestreichen. Danach den Spinat darauf verteilen und von der langen Seite her zu einem Strudel rollen. Wichtig: Mit dem Schluss nach unten auf das Backblech legen, damit er schön zu bleibt.
 
