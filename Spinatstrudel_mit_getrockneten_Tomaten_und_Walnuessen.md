@@ -7,7 +7,7 @@
 ---
 
 - *1 Rolle(n)* Blätterteig, viereckig
-- *8* Tomate(n), getrocknet, eingelegt
+- *8* Tomate(n), getrocknet, eingelegt in Öl
 - *1 Handvoll* Walnüsse
 - *2* Knoblauchzehe(n)
 - *etwas* Olivenöl
