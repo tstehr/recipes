@@ -1,6 +1,6 @@
-# Veganes Coffee-Kakao-Bier-Chili
+# Veganes Kakao-Malzier-Chili
 
-Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestellt. Danke, dass ich es hier auch verwenden kann!
+Diese Version von tstehr/recipes hat kein Kaffee und kein Alkohol.
 
 *vegan, vegetarian*
 
@@ -16,8 +16,7 @@ Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestell
 - *1 Pck.* Tomaten, passierte
 - *70 g* Tomatenmark
 - *1 Glas* Tomate(n), getrocknete, in Öl eingelegt
-- *250 ml* Bier, dunkles
-- *100 ml* Espresso, oder 200 ml starker Kaffee
+- *250 ml* Malzbier
 - *2 EL* Zucker, braun
 - *1 1/2 EL* Kakaopulver
 - *1/2 TL* Oregano
@@ -42,7 +41,7 @@ Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestell
 - Zwiebel würfeln, Knoblauch zerkleinern, getrocknete Tomaten in kleine Streifen schneiden, Espresso zubereiten, Chilischoten sehr klein schneiden. 
 - Zwiebeln und Knoblauch in ein wenig Öl andünsten, bis die Zwiebeln glasig werden.
 - Chilischoten hinzugeben und kurz mitdünsten.
-- Passierte Tomate, Tomatenmark, Espresso, Bier, Kakaopulver, Kräuter hinzufügen und kurz aufkochen.
+- Passierte Tomate, Tomatenmark, Malzbier, Kakaopulver, Kräuter hinzufügen und kurz aufkochen.
 
 ### Schritt 2 - delete Feuchtigkeit
 - Die Flüssigkeit von den Sojastücken abgießen. Je weniger man salzig mag, desto besser sollte die Sojasoße abgegossen werden.
