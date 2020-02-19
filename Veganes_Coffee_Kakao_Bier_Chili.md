@@ -33,16 +33,29 @@ Diese vegane Version meines Coffee-Chili hat "Tigerloo" beim Chefkoch eingestell
 
 ---
 
-Die Sojastücke in eine große Schüssel geben und mit der Sojasoße und der Gemüsebrühe gut vermischen. Dann mit kochendem Wasser übergießen. Die Schüssel sollte mindestens 3/4 voll sein, damit die Sojastücke ordentlich aufgehen können. Ziehen lassen, bis die Sojastücke etwa die Konsistenz von angebratenem Hackfleisch haben.
+### Schritt 0 - Input Soja
+- Die Sojastücke in eine große Schüssel geben und mit der Sojasoße und der Gemüsebrühe gut vermischen.
+- Dann mit kochendem Wasser übergießen. Die Schüssel sollte mindestens 3/4 voll sein, damit die Sojastücke ordentlich aufgehen können.
+- Ziehen lassen, bis die Sojastücke etwa die Konsistenz von angebratenem Hackfleisch haben.
 
-Zwiebel würfeln, Knoblauch zerkleinern, getrocknete Tomaten in kleine Streifen schneiden, Espresso zubereiten, Chilischoten sehr klein schneiden. Zwiebeln und Knoblauch in ein wenig Öl andünsten, bis die Zwiebeln glasig werden. Chilischoten hinzugeben und kurz mitdünsten. Passierte Tomate, Tomatenmark, Espresso, Bier, Kakaopulver, Kräuter hinzufügen und kurz aufkochen.
+### Schritt 1 - Input Geschmachsträger
+- Zwiebel würfeln, Knoblauch zerkleinern, getrocknete Tomaten in kleine Streifen schneiden, Espresso zubereiten, Chilischoten sehr klein schneiden. 
+- Zwiebeln und Knoblauch in ein wenig Öl andünsten, bis die Zwiebeln glasig werden.
+- Chilischoten hinzugeben und kurz mitdünsten.
+- Passierte Tomate, Tomatenmark, Espresso, Bier, Kakaopulver, Kräuter hinzufügen und kurz aufkochen.
 
-Die Flüssigkeit von den Sojastücken abgießen. Je weniger man salzig mag, desto besser sollte die Sojasoße abgegossen werden. Evtl. die Sojastücke ein wenig ausdrücken.
+### Schritt 2 - delete Feuchtigkeit
+- Die Flüssigkeit von den Sojastücken abgießen. Je weniger man salzig mag, desto besser sollte die Sojasoße abgegossen werden.
+- Evtl. die Sojastücke ein wenig ausdrücken.
 
-Sojastücke, Bohnen, getrocknete Tomate und Mais in die Tomatensoße geben. Wenn das Chili jetzt zu dick ist, Wasser hinzugeben, bis das Mischungsverhältnis stimmt. Mit weiteren Gewürzen wie z.B. Cayennepfeffer, Paprika, Muskat, Pfeffer, abschmecken. Salzig genug sollte das Chili durch Sojasoße und Gemüsebrühe sein.
+### Schritt 3 - Input mehr Geschmachsträger
+- Sojastücke, Bohnen, getrocknete Tomate und Mais in die Tomatensoße geben. Wenn das Chili jetzt zu dick ist, Wasser hinzugeben, bis das Mischungsverhältnis stimmt.
+- Mit weiteren Gewürzen wie z.B. Cayennepfeffer, Paprika, Muskat, Pfeffer, abschmecken. Salzig genug sollte das Chili durch Sojasoße und Gemüsebrühe sein.
 
-Das Chili jetzt ca eine halbe Stunde auf niedriger Stufe köcheln lassen. Je länger es danach zieht, desto leckerer wird es, aber man kann es auch direkt essen.
+### Schritt 4 - Kochen
+- Das Chili jetzt ca eine halbe Stunde auf niedriger Stufe köcheln lassen. Je länger es danach zieht, desto leckerer wird es, aber man kann es auch direkt essen.
 
+### Addendum
 Dazu passen Reis, Nudeln, Fladenbrot, Baguette.
 
 Quelle: [usa-kulinarisch.de](https://www.usa-kulinarisch.de/rezept/coffee-kakao-bier-chili-vegane-version/)
