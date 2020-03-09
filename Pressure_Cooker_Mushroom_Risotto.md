@@ -4,7 +4,7 @@ The pressure cooker is the fastest and most reliable way to cook perfect risotto
 
 <img src="https://www.seriouseats.com/recipes/images/2014/12/20141103-mushroom-risotto-pressure-cooker-1.jpg" />
 
-*pressure cooker, mains, fall, winter, easy, mushroom, quick, rice, risotto, vegetarian*
+*pressure cooker, main, fall, winter, easy, mushroom, quick, rice, risotto, vegetarian*
 
 **5 servings**
 

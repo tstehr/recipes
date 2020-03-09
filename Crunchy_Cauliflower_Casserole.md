@@ -4,7 +4,7 @@ Southern breaded cauliflower is cheesy and creamy, with a few added spices to ma
 
 <img src="https://www.seriouseats.com/recipes/images/2013/07/20130703-258629-southern-breaded-cauliflower-recipe.jpg" />
 
-*cauliflower, vegetarian, mains, bechamel, casseroles, gratin, american, southern american*
+*cauliflower, vegetarian, main, bechamel, casseroles, gratin, american, southern american*
 
 **4 servings**
 
