@@ -11,6 +11,8 @@
 - *2 tbsp* fenugreek
 - *2 tbsp* thyme
 - *1 tbsp* marjoram
+- *1/2 tbsp* onion powder
+- *1/2 tbsp* garlic powder
 - *1/2 tbsp* black pepper
 - *1/2 tbsp* savory 
 - cayenne
