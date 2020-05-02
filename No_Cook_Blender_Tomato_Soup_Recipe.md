@@ -8,12 +8,13 @@
 
 - *60 ml* extra-virgin olive oil, plus more for serving
 - *1 clove* garlic
-- *75g*  onion, roughly chopped
+- *40g*  onion, roughly chopped
 - *1/2 teaspoon* dried oregano
 - *1/2 teaspoon* red pepper flakes
 - *30g* white bread, crusts removed, torn into rough pieces
-- *800 g* canned peeled whole tomatoes packed in juice (about 800g)
+- *800 g* canned peeled whole tomatoes packed in juice
 - *235ml* water or stock
+- *1 tbsp* agave nectar
 - Kosher salt and freshly ground black pepper
 - Minced chives, basil, or parsley as garnish
 
