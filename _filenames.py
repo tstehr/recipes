@@ -27,6 +27,7 @@ for path in glob.glob(os.path.join(root_path, '**/*.md'), recursive=True):
             filename = filename.translate(tt)
             filename = unidecode(filename)
             filename = re.sub(r'[^a-zA-Z0-9]+', '_', filename)
+            filename = re.sub(r'^_+|_+$', '', filename)
             new_path = os.path.join(os.path.dirname(path), f'{filename}.md')
             os.rename(path, new_path)
     except Exception as e:
