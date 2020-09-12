@@ -7,7 +7,7 @@
 - *1* Packung Pizzateig
 - *40 g* Zwiebeln
 - *1 Zeh* Knoblauch
-- *100 g* gehackte Tomaten, Dose
+- *80 g* gehackte Tomaten, Dose
 - *80 g* Tomatenmark
 - Basilikum, getrocknet
 - Oregano, getrocknet
