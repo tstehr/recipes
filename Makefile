@@ -1,8 +1,9 @@
 .PHONY: all filenames images clean
 
-PDFS := $(patsubst %.md,pdfs/%.pdf,$(wildcard *.md))
+MDS = $(shell fd -t f '.*\.md')
+PDFS := $(patsubst %.md,pdfs/%.pdf,$(MDS))
 
-all: filenames images pdfs
+all: filenames images
 	$(MAKE) -j12 $(PDFS)
 
 filenames: 
@@ -11,10 +12,8 @@ filenames:
 images:
 	python _images.py
 
-pdfs: 
-	mkdir pdfs
-
 pdfs/%.pdf : %.md
+	@mkdir -p "$(@D)"
 	pandoc --pdf-engine=xelatex -V geometry:margin=1cm -V geometry:a4paper $< -o $@
 
 clean:
