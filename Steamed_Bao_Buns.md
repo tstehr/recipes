@@ -2,8 +2,6 @@
 
 Use these steamed bao buns to make Chinese burgers. Kathy fills hers with crumbed chicken thighs, pickled vegetables, citron mayonnaise and chilli-spiked green cabbage. To prepare the cabbage, simply toss ¼ of a finely chopped green cabbage with ½ a finely chopped green chilli. Mix through a little of the red onion from the pickled vegetables and moisten with a little citron mayonnaise.
 
-<img src="https://www.eatwell.co.nz/images/recipes/13062016BiteSteamedBaoBuns.jpg?width=603&height=339&mode=crop&upscale=false" />
-
 *vegan, chinese, burger*
 
 **10 buns**

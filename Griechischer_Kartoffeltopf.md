@@ -1,6 +1,6 @@
 # Griechischer Kartoffeltopf
 
-<img src="https://img.chefkoch-cdn.de/rezepte/56111020007892/bilder/789046/crop-960x540/griechischer-kartoffeltopf-vegetarisch.jpg" />
+![](https://img.chefkoch-cdn.de/rezepte/56111020007892/bilder/789046/crop-960x540/griechischer-kartoffeltopf-vegetarisch.jpg)
 
 *Kalorienarm, Gemüse, Hauptspeise, Europa, Vegetarisch, Griechenland, einfach, kalorienarm, fettarm, Schmoren, Lactose*
 

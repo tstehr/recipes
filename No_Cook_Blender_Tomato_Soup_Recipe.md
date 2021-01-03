@@ -1,6 +1,6 @@
 # No-Cook Blender Tomato Soup Recipe
 
-<img src="https://www.seriouseats.com/recipes/images/2015/12/20151209-blender-tomato-soup-recipe-2-1500x1125.jpg" />
+![](https://www.seriouseats.com/recipes/images/2015/12/20151209-blender-tomato-soup-recipe-2-1500x1125.jpg)
 
 **3 servings**
 

@@ -1,6 +1,6 @@
 # Creamy Vegan Saag Paneer (With Tofu) Recipe
 
-<img src="https://www.seriouseats.com/recipes/images/2016/03/20160330-vegan-saag-paneer-tofu-cauliflower-recipe-16-1500x1125.jpg" />
+![](https://www.seriouseats.com/recipes/images/2016/03/20160330-vegan-saag-paneer-tofu-cauliflower-recipe-16-1500x1125.jpg)
 
 **6 serving(s)**
 

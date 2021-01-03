@@ -2,7 +2,7 @@
 
 This classic Provençal summer stew features eggplant, summer squash, bell peppers, onion, garlic, and tomatoes, along with plenty of olive oil. If you can resist eating it all while it's still hot, it gets even better the next day, served slightly chilled or at room temperature.
 
-<img src="https://www.seriouseats.com/recipes/images/2015/08/20150803-ratatouille-vicky-wasik-8.jpg" />
+![](https://www.seriouseats.com/recipes/images/2015/08/20150803-ratatouille-vicky-wasik-8.jpg)
 
 *vegetarian, side, main, french, summer, vegan*
 

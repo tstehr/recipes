@@ -2,7 +2,7 @@
 
 The pressure cooker is the fastest and most reliable way to cook perfect risotto. This version comes out creamy and intensely flavored with fresh mushrooms and dried porcini. A touch of miso paste gives it savory depth.
 
-<img src="https://www.seriouseats.com/recipes/images/2014/12/20141103-mushroom-risotto-pressure-cooker-1.jpg" />
+![](https://www.seriouseats.com/recipes/images/2014/12/20141103-mushroom-risotto-pressure-cooker-1.jpg)
 
 *pressure cooker, main, fall, winter, easy, mushroom, quick, rice, risotto, vegetarian*
 

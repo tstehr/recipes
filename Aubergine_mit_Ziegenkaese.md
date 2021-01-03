@@ -1,7 +1,6 @@
 # Aubergine mit Ziegenkäse
 
-
-<img src="https://www.edeka.de/media/01-rezeptbilder/rezeptbilder-a-d/rez-edeka-aubergine-mit-ziegenkaese-rezept-a-d.jpg?imwidth=640&imdensity=1" />
+![](https://www.edeka.de/media/01-rezeptbilder/rezeptbilder-a-d/rez-edeka-aubergine-mit-ziegenkaese-rezept-a-d.jpg?imwidth=640&imdensity=1)
 
 *grillen, vegetarisch*
 

@@ -2,7 +2,7 @@
 
 Leftover sauce? Bring a pot of water to boil: It’s pasta night.
 
-<img src="https://assets.bonappetit.com/photos/57acf588f1c801a1038bc95d/16:9/w_1000,c_limit/pork-ragu-over-creamy-polenta.jpg" />
+![](https://assets.bonappetit.com/photos/57acf588f1c801a1038bc95d/16:9/w_1000,c_limit/pork-ragu-over-creamy-polenta.jpg)
 
 **8 servings**
 

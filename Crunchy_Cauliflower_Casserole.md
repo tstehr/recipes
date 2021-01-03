@@ -2,7 +2,7 @@
 
 Southern breaded cauliflower is cheesy and creamy, with a few added spices to make things interesting. If you like, you can leave out the nutmeg and cumin, but they really do take the dish from standard to sensational.
 
-<img src="https://www.seriouseats.com/recipes/images/2013/07/20130703-258629-southern-breaded-cauliflower-recipe.jpg" />
+![](https://www.seriouseats.com/recipes/images/2013/07/20130703-258629-southern-breaded-cauliflower-recipe.jpg)
 
 *cauliflower, vegetarian, main, bechamel, casseroles, gratin, american, southern american*
 

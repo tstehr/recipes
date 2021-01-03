@@ -2,7 +2,7 @@
 
 Umami-charged asafetida is well worth seeking out at an Indian grocer or online—just a pinch of this pungent powder makes all the other spices come alive. Feta and spinach is an iconic combination, but mozzarella or even tofu cubes are also great here.
 
-<img src="https://assets.bonappetit.com/photos/5c8a90c7623f1366f6166492/16:9/w_1000,c_limit/Saag-Paneer-but-with-Feta.jpg" />
+![](https://assets.bonappetit.com/photos/5c8a90c7623f1366f6166492/16:9/w_1000,c_limit/Saag-Paneer-but-with-Feta.jpg)
 
 **4 servings**
 
