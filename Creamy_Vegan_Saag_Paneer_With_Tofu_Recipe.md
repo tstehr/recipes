@@ -1,6 +1,6 @@
 # Creamy Vegan Saag Paneer (With Tofu) Recipe
 
-![](https://www.seriouseats.com/recipes/images/2016/03/20160330-vegan-saag-paneer-tofu-cauliflower-recipe-16-1500x1125.jpg)
+![](images/20160330-vegan-saag-paneer-tofu-cauliflower-recipe-16-1500x1125.jpg)
 
 **6 serving(s)**
 
@@ -20,8 +20,8 @@
 - *1 teaspoon* ground cumin seed
 - *1 teaspoon* ground turmeric
 - *1* cardamom pod, smashed
-- *225g* mature spinach, curly if available (see note)
-- *225g* arugula or mustard greens, tough mustard green stems removed and discarded (see note)
+- *225 g* mature spinach, curly if available (see note)
+- *225 g* arugula or mustard greens, tough mustard green stems removed and discarded (see note)
 
 ---
 

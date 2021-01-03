@@ -2,7 +2,7 @@
 
 This classic Provençal summer stew features eggplant, summer squash, bell peppers, onion, garlic, and tomatoes, along with plenty of olive oil. If you can resist eating it all while it's still hot, it gets even better the next day, served slightly chilled or at room temperature.
 
-![](https://www.seriouseats.com/recipes/images/2015/08/20150803-ratatouille-vicky-wasik-8.jpg)
+![](images/20150803-ratatouille-vicky-wasik-8.jpg)
 
 *vegetarian, side, main, french, summer, vegan*
 
@@ -16,7 +16,7 @@ This classic Provençal summer stew features eggplant, summer squash, bell peppe
 - *3* medium yellow onions
 - *6* medium cloves garlic, minced
 - *4* large red and yellow bell peppers
-- *800g* canned whole tomatoes, with their juices, pureed
+- *800 g* canned whole tomatoes, with their juices, pureed
 - *1* bouquet garni (herb bundle), made from fresh herbs such as thyme, parsley, and basil, tied together with butcher's twine
 - *30 g* fresh parsley
 - *15 ml* balsamico

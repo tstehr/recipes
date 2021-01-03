@@ -2,7 +2,7 @@
 
 Leftover sauce? Bring a pot of water to boil: It’s pasta night.
 
-![](https://assets.bonappetit.com/photos/57acf588f1c801a1038bc95d/16:9/w_1000,c_limit/pork-ragu-over-creamy-polenta.jpg)
+![](images/pork-ragu-over-creamy-polenta.jpg)
 
 **8 servings**
 
@@ -13,11 +13,11 @@ Leftover sauce? Bring a pot of water to boil: It’s pasta night.
 - *1.5 kg* skinless, boneless pork shoulder (Boston butt), cut into 1 pound pieces
 - Kosher salt and freshly ground black pepper
 - *15 ml* vegetable oil
-- *100g* onion, finely chopped
+- *100 g* onion, finely chopped
 - *6* garlic cloves, finely chopped
 - *30 g* tablespoons tomato paste
 - *150 ml* full-bodied red wine
-- *800g* canned whole peeled tomatoes
+- *800 g* canned whole peeled tomatoes
 - *4 sprigs* thyme
 - *2 sprigs* rosemary
 - *2* bay leaves

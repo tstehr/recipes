@@ -2,7 +2,7 @@
 
 The pressure cooker is the fastest and most reliable way to cook perfect risotto. This version comes out creamy and intensely flavored with fresh mushrooms and dried porcini. A touch of miso paste gives it savory depth.
 
-![](https://www.seriouseats.com/recipes/images/2014/12/20141103-mushroom-risotto-pressure-cooker-1.jpg)
+![](images/20141103-mushroom-risotto-pressure-cooker-1.jpg)
 
 *pressure cooker, main, fall, winter, easy, mushroom, quick, rice, risotto, vegetarian*
 
@@ -30,9 +30,9 @@ The pressure cooker is the fastest and most reliable way to cook perfect risotto
 
 Place chicken stock and dried mushrooms (if using) in a microwave-safe container and microwave on high power until simmering, about 5 minutes. Remove from microwave. Using a slotted spoon, transfer porcini to a cutting board and roughly chop. Add fresh mushroom scraps to container with porcini-infused stock and set aside.
 
-Heat olive oil and butter in the base of a pressure cooker over high heat, swirling, until foaming subsides. Add fresh mushrooms, season with salt and pepper, and cook, stirring occasionally, until excess moisture has evaporated and mushrooms are well browned, about 8 minutes. 
+Heat olive oil and butter in the base of a pressure cooker over high heat, swirling, until foaming subsides. Add fresh mushrooms, season with salt and pepper, and cook, stirring occasionally, until excess moisture has evaporated and mushrooms are well browned, about 8 minutes.
 
-Add onion, garlic, and chopped porcini (if using) and cook, stirring frequently, until onions are softened and aromatic, about 4 minutes. Add rice and cook, stirring, until rice is evenly coated in oil and toasted but not browned, 3 to 4 minutes. (Rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.) Stir in soy sauce and miso paste until evenly incorporated. 
+Add onion, garlic, and chopped porcini (if using) and cook, stirring frequently, until onions are softened and aromatic, about 4 minutes. Add rice and cook, stirring, until rice is evenly coated in oil and toasted but not browned, 3 to 4 minutes. (Rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.) Stir in soy sauce and miso paste until evenly incorporated.
 
 Add wine and cook, stirring, until raw alcohol smell has cooked off and wine has almost fully evaporated, about 2 minutes.
 

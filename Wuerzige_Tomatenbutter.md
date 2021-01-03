@@ -2,11 +2,11 @@
 
 Würzige Tomatenbutter - Mit Knoblauch und getrockneten Tomaten. 
 
-![](https://img.chefkoch-cdn.de/rezepte/1162851222416611/bilder/758035/crop-552x552/wuerzige-tomatenbutter.jpg)
+![](images/wuerzige-tomatenbutter.jpg)
 
 *Party, Party, Schnell, einfach, Aufstrich*
 
-**25 Brötchenhälften, 450g**
+**25 Brötchenhälften, 450 g**
 
 ---
 
