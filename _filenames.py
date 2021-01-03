@@ -1,3 +1,4 @@
+import sys
 import glob
 import os
 import re
@@ -31,5 +32,5 @@ for path in glob.glob(os.path.join(root_path, '**/*.md'), recursive=True):
             new_path = os.path.join(os.path.dirname(path), f'{filename}.md')
             os.rename(path, new_path)
     except Exception as e:
-        pprint(e)
-        print(f'Ignoring {path}')
+        print(f'[Filenames] Ignoring {path}', file=sys.stderr)
+        pprint(e, stream=sys.stderr)
