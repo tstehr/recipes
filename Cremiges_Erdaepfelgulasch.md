@@ -17,7 +17,7 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 - *15 ml* Essig (beliebiger)
 - *20 g* Tomatenmark (15g ≃ 1 EL)
 - *1 leicht gehäufter TL* getrockneter Majoran, gerebelt
-- *2* bunte Paprika
+- *2* bunte Paprika als Einlage
 - *300 g* Zwiebeln als Einlage
 - *30 g* Kümmel[0], im Mörser mittelfein zerstoßen (15 g ⋍ 1 EL)
 - *30 g* Koriandersamen[0], im Mörser mittelfein zerstoßen (15 g ⋍ 1 EL)
@@ -25,6 +25,7 @@ Dieses Gericht gibt es bei uns traditionell vor einer Metverkostung.
 - *20 g* Salz
 - *2* Lorbeerblätter
 - *1/2 l* Gemüsebrühe-Pulver
+- *2 l* Wasser
 - *70 g* frisch gemahlener, schwarzer Pfeffer (15 g ⋍ 1 EL)
 - *100 ml* Öl zum Braten 
 - *250 g* Schmand oder Creme Fraiche
@@ -39,13 +40,13 @@ Die Zwiebeln für die Soße schälen, längs halbieren und in ebenmäßige, fein
 
 Knoblauch mit einer Presse oder Reibe direkt in den Topf pressen/reiben und in den letzten 2 Minuten mit den Zwiebeln mitrösten.
 
-Paprika zugeben, kurz mit den Zwiebeln anrösten (dafür sollte ausreichend Öl im Topf sein, nicht anbrennen lassen!) und mit Essig ablöschen. Tomatenmark, Majoran, Kümmel und Koriander zugeben, kurz durchrühren und mit eine ca. 250 ml Wasser aufgießen. Umrühren und einkochen lassen.
+Paprikapulver zugeben, kurz mit den Zwiebeln anrösten (dafür sollte ausreichend Öl im Topf sein, nicht anbrennen lassen!) und mit Essig ablöschen. Tomatenmark, Majoran, Kümmel und Koriander zugeben, kurz durchrühren und mit ca. 250 ml Wasser aufgießen. Umrühren und einkochen lassen.
 
-Nochmals einen Schöpfer Wasser zugeben und soweit einkochen lassen, bis die Zwiebel-Paprika-Sauce cremig wirkt, meist nur wenige Minuten. Ich püriere die Zwiebeln, für einen sehr cremigen, homogenen Gulaschsaft (muss aber nicht sein, dann folgenden Schritt überspringen).
+Nochmals ca. 250 ml Wasser zugeben und soweit einkochen lassen, bis die Zwiebel-Paprika-Sauce cremig wirkt, meist nur wenige Minuten. Ich püriere die Zwiebeln, für einen sehr cremigen, homogenen Gulaschsaft (muss aber nicht sein, dann folgenden Schritt überspringen).
 
 Den Topf von der Herdplatte nehmen, die Zwiebelmasse kurz abkühlen lassen und in einen Rührtopf (hoch ist besser als breit, Spritzgefahr) umfüllen. Vorsichtig mit einem Pürierstab pürieren, bis die Masse glatt ist. Zurück in den Topf füllen – hier leistet ein Gummispatel gute Dienste.
 
-Zucker, Salz, Pfeffer, Lorbeerblätter und zerbröselten Suppenwürfel bei mittlerer Hitze einrühren. Schöpflöffelweise mit Wasser (alles bis auf ¼ Liter, oft braucht man nicht die ganzen 2 l Wasser) aufgießen, dazwischen umrühren.
+Zucker, Salz, Pfeffer, Lorbeerblätter und zerbröselten Suppenwürfel bei mittlerer Hitze einrühren. Schöpflöffelweise mit Wasser (oft braucht man nicht alles) aufgießen, dazwischen umrühren.
 
 Erdäpfelstücke zugeben (sie sollen alle mit Wasser bedeckt sein) und eine halbe Stunde leicht köcheln lassen (nicht zugedeckt), ab und zu umrühren. 
 
