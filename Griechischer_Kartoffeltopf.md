@@ -12,6 +12,7 @@
 - *2 TL* Salz
 - Pfeffer
 - Oregano
+- Zimt
 - *800 g* Kartoffeln, festkochend
 - *3 EL* Öl
 - *1* Gemüsezwiebel
@@ -23,7 +24,7 @@
 
 ---
 
-Petersilie waschen und fein hacken. Salz mit Pfeffer, Oregano und Petersilie mischen.
+Petersilie waschen und fein hacken. Salz mit Pfeffer, Oregano, Zimt und Petersilie mischen.
 Das Gemüse waschen und die geschälten Kartoffeln in dünne Scheiben schneiden. Das Öl in einem großen Topf erhitzen, Kartoffeln darin anbraten, mit einem Teil der Würzmischung bestreuen und im geschlossenen Topf bei kleiner Hitze schmoren.
 
 Die geschälte und kleingewürfelte Zwiebel auf die Kartoffeln geben und wieder würzen.
