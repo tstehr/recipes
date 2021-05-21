@@ -31,7 +31,7 @@ Mix wheat gluten, gram flour, nutritional yeast and döner spice blend and salt 
 
 Add liquid ingredients to dry ingredients stirring as you go. Gradually add remaining water until a cohesive dough forms. Roughly shape dough into 2-3 cm flat circle.
 
-Let rest for ten minutes, then loosely wrap in greased aluminum foil and steam for 30 to 45 minutes until firm and springy. Allow to cool then slice very thinly (about 1 mm slices).
+Let rest for ten minutes, then loosely wrap in greased aluminum foil and steam for 1 to 1.5 hours until firm and springy. Allow to cool then slice very thinly (about 1 mm slices).
 
 For the marinade mix remaining tomato paste, soy sauce and spice blend with maple syrup and oil. Season generously with salt. Add sliced seitan and allow to marinate for 10 minutes. Preheat pan over medium high, add seitan with marinade and fry until slightly crispy.
 
