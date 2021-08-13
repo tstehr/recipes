@@ -1,6 +1,6 @@
 # Gebratener Tofu mit Staudensellerie
 
-**4 Portionen*
+**4 Portionen**
 
 ---
 
