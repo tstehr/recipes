@@ -4,7 +4,7 @@ These Chinese fried eggplants in spicy sweet-sour chili garlic sauce are easy to
 make and so delicious! The recipe is vegan and can easily be made gluten-free by
 using Tamari sauce.
 
-*2 servings**
+**2 servings**
 
 ---
 
