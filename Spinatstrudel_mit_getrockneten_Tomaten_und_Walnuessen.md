@@ -10,10 +10,10 @@
 - *8* Tomate(n), getrocknet, eingelegt in Öl
 - *1 Handvoll* Walnüsse
 - *2* Knoblauchzehe(n)
-- *etwas* Olivenöl
+- Olivenöl
 - *350 g* Blattspinat, TK oder frisch
 - *1* Zwiebel(n)
-- *etwas* Gemüsebrühe zum Ablöschen
+- Gemüsebrühe zum Ablöschen
 - Salz
 - Pfeffer
 
