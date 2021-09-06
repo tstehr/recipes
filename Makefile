@@ -1,16 +1,18 @@
-.PHONY: all filenames images clean
+.PHONY: all filenames images pdfs clean
 
-MDS = $(shell fd -t f '.*\.md')
+MDS = $(shell fd -I -t f '.*\.md')
 PDFS := $(patsubst %.md,pdfs/%.pdf,$(MDS))
 
-all: filenames images
-	$(MAKE) -j12 $(PDFS)
+all: filenames images pdfs
 
 filenames: 
 	python _filenames.py
 
 images:
 	python _images.py
+
+pdfs: 
+	$(MAKE) -j12 $(PDFS)
 
 pdfs/%.pdf : %.md
 	@mkdir -p "$(@D)"
