@@ -19,7 +19,7 @@
 
 - Für Sushi-Zu (Sushi-Essig) Reisessig, Zucker und Salz in einem kleinen Topf unter Rühren erwärmen, bis sich Zucker und Salz aufgelöst haben. Kühl stellen.
 
-- Reis mit kaltem Wasser bedecken, kneten. Durch ein Sieb abgießen. So oft Wasser dazugießen, bis es klar ist. Den Reis in Wasser ca. 30 Min. ruhen lassen.
+- Reis mit kaltem Wasser bedecken, kneten. Durch ein Sieb abgießen. So oft Wasser dazugießen, bis es klar ist. Den Reis in der angegebenen Menge Wasser ca. 30 Min. ruhen lassen.
 
 - Reis im Wasser aufkochen. Zugedeckt bei schwacher Hitze ca. 15 Min. köcheln. Dann mit Tuch zwischen Topf und Deckel ca. 20 Min. ruhen lassen.
 
