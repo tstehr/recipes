@@ -33,6 +33,7 @@
 - Nudeln nach Verpackungsanweisung zubereiten
 - Möhren anbraten, dann Ingwer und weißen Teil der Frühlingszwiebeln zugeben und
   mitbraten
+- Pilze zugeben und kurz mitbraten
 - Sprossen und Nudeln zugeben und untermischen
 - Erbsen und Soße zugeben und kurz braten bis Erbsen aufgetaut sind
 - Grünen Teil der Frühlingszwiebeln untermischen und servieren
