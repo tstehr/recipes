@@ -8,7 +8,7 @@
 ---
 
 - *250 g* Cashewkerne
-- *150 g* naturbelassene Pistazienkerne (Gewicht ohne Schale)
+- *150 g* naturbelassene Pistazienkerne (Gewicht ohne Schale, mit Schale ungefähr doppelt so viel)
 - *1* Vanilleschote
 - *80 g* Zucker
 - *75 ml* Kokosöl
