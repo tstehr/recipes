@@ -3,11 +3,11 @@
 
 *vegan*
 
-**4 Portionen**
+**24 Kugeln**
 
 ---
 
-- *250 g* Cashewkerne
+- *it 250 g* Cashewkerne
 - *150 g* naturbelassene Pistazienkerne (Gewicht ohne Schale, mit Schale ungefähr doppelt so viel)
 - *1* Vanilleschote
 - *80 g* Zucker
