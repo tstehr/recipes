@@ -10,5 +10,5 @@
 - *1 EL* Zucker
 - *1 TL* frischen Zitronensaft
 - *10 g* frische Petersilie
-- *600 ml* [Vegane Sauce Hollondaise](Vegane_Sauce_Hollondaise.md)
+- *600 ml* [Vegane Sauce Hollandaise](Vegane_Sauce_Hollandaise.md)
 - *4 Portionen* [Sellerieschnitzel](Sellerieschnitzel.md)

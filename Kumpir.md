@@ -27,21 +27,21 @@
 
 ---
 
-1. Die Kartoffeln qut waschen, sie werden nicht geschält. Anschließend in
-   Alufolle einpacken und für 60 Minuten im vorgeheizten Ofen bei 220°C Ober-
-   uno Unterhitze backen. Mit der Zahnstocherprobe testen ob die kartoffeln aar
+1. Die Kartoffeln gut waschen, sie werden nicht geschält. Anschließend in
+   Alufolie einpacken und für 60 Minuten im vorgeheizten Ofen bei 220°C Ober-
+   uno Unterhitze backen. Mit der Zahnstocherprobe testen, ob die kartoffeln gar
    sind.
 
 2. Dann die Kartoffeln der Länge nach mit einem Messer aufschneiden, jedoch nur
-   so welt, dass sie an der Längsseite noch verbunden bleiben
+   so weit, dass sie an der Längsseite noch verbunden bleiben
 
 3. Das Innere der Kartoffeln mit einer Gabel lockern. Die gelockerte
-   Kartoffelmasse jewels mit 1 EL der veganen Butter oder Margarine und 1
-   Handvoll Schmelzkase vermengen. So entsteht eine cremige Basis fur deine
-   Wunschfullung.
+   Kartoffelmasse jeweils mit 1 EL der veganen Butter oder Margarine und 1
+   handvoll Schmelzkäse vermengen. So entsteht eine cremige Basis fur deine
+   Wunschfüllung.
 
 4. Kumpir sind äußerst vielseitig, hier ist für jeden Geschmack etwas dabei.
-   Traditionell fullt und belegt man die Kartoffeln gern mit Mais, cremigem
+   Traditionell füllt und belegt man die Kartoffeln gern mit Mais, cremigem
    Karottensalat, knackig-frischem Rotkohl, Essiggurken und schwarzen wie grünen
    Oliven.
 
