@@ -1,6 +1,6 @@
 # Sushireis
 
-**600g gekochter Reis, 2 Portionen, 250g trockener Reis**
+**600g gekochter Reis, 2 Portionen, 6 Sushi-Rollen**
 
 ---
 
