@@ -13,7 +13,7 @@
 - *1 tbsp* salt
 - *350 ml* water
 - *2 tbsp* Marmite
-- *50 ml* dark soy sauce
+- *50 ml* ligh soy sauce (or dark, depending on appearance preference)
 - *2 tbsp* tomato paste
 
 ## Marinade
@@ -22,7 +22,7 @@
 - *4 tbsp* tomato paste
 - *100 ml* dark soy sauce
 - *150 ml* olive oil
-- *2 tbsp* maple syrup
+- *2 tbsp* simple syrup, maple syrup or agave syrup
 - Salt
 
 ---
@@ -33,6 +33,8 @@ Add liquid ingredients to dry ingredients stirring as you go. Gradually add rema
 
 Let rest for ten minutes, then loosely wrap in greased aluminum foil and steam for 1 to 1.5 hours until firm and springy. Allow to cool then slice very thinly (about 1 mm slices).
 
-For the marinade mix remaining tomato paste, soy sauce and spice blend with maple syrup and oil. Season generously with salt. Add sliced seitan and allow to marinate for 10 minutes. Preheat pan over medium high, add seitan with marinade and fry until slightly crispy.
+For the marinade mix remaining tomato paste, soy sauce and spice blend with maple syrup and oil. Season generously with salt. Add sliced seitan and allow to marinate for at least 10 minutes up to a few days. 
 
-To freeze: Cook slightly less, freeze in single layer on a sheet tray. When frozen pack into container. To reheat put desired amount into pan on medium and fry until warmed.
+To serve: Preheat pan over medium high, add seitan with marinade and fry until slightly crispy.
+
+To freeze: Freeze in single layer on a sheet tray. When frozen pack into container. To reheat put desired amount into pan on medium and fry until thawed and slightly crispy.
