@@ -25,8 +25,8 @@ You don’t need lots of eggs to make delicious spaetzle. Try these egg-free, ve
 - *0.25 teaspoon* paprika powder
 - ground pepper
 - *1 pinch* garlic powder
-- *50 cup* nutritional yeast
-- *0.5 cup* water
+- *15 g* nutritional yeast
+- *150 ml* water
 
 ## Fried Onions
 
