@@ -23,4 +23,13 @@ Als Stärkebeilage traditionell Semmeln, alternativ geht aber auch Kartoffeln, N
 
 ---
 
+- Wadschunken in ca 4x4cm große Würfel schneiden 
+- Zwiebeln mittelgrob würfeln (1-2 cm Kantenlänge)
+- In Schweineschmalz in einzelner Lage scharf anbraten (nach Bedarf portionsweise)
+- Fleisch beiseite stellen
+- Zwiebeln in gleicher Pfanne anbraten bis sie goldbraun sind, am Ende der Bratzeit Zucker dazugeben
+- Zwiebeln mit Fleisch, Fleischsaft und Bier in Topf geben und schmoren
+- Gewürze zugeben, nach Bedarf mit Wasser aufgießen, dass das Fleisch zu zwei Drittel mit Flüssigkeit bedeckt ist
+
+
 Quelle: [Frau Ziii](https://www.ziiikocht.at/2013/01/wiener-wirtshausgulasch-aus-dem.html)
