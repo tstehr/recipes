@@ -35,7 +35,7 @@
 - *10* corn tortillas
 - red or green cabbage, or cauliflower leaves, shredded
 - *5* radishes, thinly sliced
-- avocado, sliced
+- avocado, sliced, or cream cheese
 
 ---
 
@@ -51,4 +51,4 @@ Once there's about 10 minutes left for the cauliflower in the oven, heat the oli
 # Tacos
 
 While the cauliflower is cooking on the stove, you can cook your tortillas. You can cook them according to their package's instructions or cook them this way: I like to heat a cast iron pan over medium heat until it's pretty hot. Then I place a tortilla in the pan and cook for 30-40 seconds before flipping it and letting it cook for another 30-40 seconds. Then I transfer it to a plate and cover the plate tightly with aluminum foil. Repeat until you've prepared as many tortillas as you need.
-To assemble the tacos, sprinkle a little shredded cabbage on a tortilla. Top with carnitas, salsa, avocado, and radish slices. Repeat with the remaining ingredients. Serve immediately. Leftover carnitas can be refrigerated in an airtight container for 3 to 4 days. Enjoy!
+To assemble the tacos, sprinkle a little shredded cabbage on a tortilla. Top with carnitas, salsa, avocado or cream cheese, and radish slices. Repeat with the remaining ingredients. Serve immediately. Leftover carnitas can be refrigerated in an airtight container for 3 to 4 days. Enjoy!
