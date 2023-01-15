@@ -10,20 +10,20 @@ The pressure cooker is the fastest and most reliable way to cook perfect risotto
 
 ---
 
-- 1 quart (950ml) homemade or store-bought low-sodium chicken stock or vegetable stock
-- 1 ounce (30g) dried porcini mushrooms (optional)
-- 1 1/2 pounds (700g) mixed mushrooms, such as shiitake, cremini, oyster, and chanterelle, trimmed and thinly sliced, stems reserved
-- 4 tablespoons (60ml) extra-virgin olive oil
-- 4 tablespoons (50g) unsalted butter
+- *950ml* homemade or store-bought low-sodium chicken stock or vegetable stock
+- *30g* dried porcini mushrooms (optional)
+- *700g* mixed mushrooms, such as shiitake, cremini, oyster, and chanterelle, trimmed and thinly sliced, stems reserved
+- *60ml* extra-virgin olive oil
+- *50g* unsalted butter
 - Kosher salt and freshly ground black pepper
-- 1 medium yellow onion, finely chopped (about 6 ounces; 170g)
-- 2 medium cloves garlic, finely minced
-- 1 1/2 cups (about 300g) risotto rice, such as arborio or vialone nano
-- 2 teaspoons (10ml) soy sauce
-- 1 tablespoon (15ml) light miso paste
-- 3/4 cup (175ml) dry white wine
-- 1/4 cup (60ml) heavy cream (optional; see note)
-- 1 ounce (30g) finely grated Parmigiano-Reggiano cheese, plus more for serving
+- *170g* yellow onion, finely chopped
+- *2* medium cloves garlic, finely minced
+- *300g* risotto rice, such as arborio or vialone nano
+- *10ml* soy sauce
+- *15ml* light miso paste
+- *175ml* dry white wine
+- *60ml* heavy cream (optional, see note)
+- *30g* finely grated Parmigiano-Reggiano cheese, plus more for serving
 - Handful finely minced mixed fresh herbs, such as parsley, chervil, tarragon, and/or chives
 
 ---
