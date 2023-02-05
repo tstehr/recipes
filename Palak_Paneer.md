@@ -1,13 +1,26 @@
 # Palak Paneer
 
-*indian, vegetarian*
+*indian, vegetarian, klassisch/feta/vegan*
 
 **4 Portionen**
 
 ---
 
+## Paneer
+
+- klassisch: *400 g* Paneer
+- feta: *400 g* Feta
+
+### vegan: Tofu-"Paneer"
+
+- *400 g* Naturtofu
+- *15 g* weiße Misopaste
+- *45 ml* Zitronensaft
+- *45 ml* Bratöl
+
+## Spinat-Sauce
+
 - Ghee (alternativ Butterschmalz, Butter oder Öl)
-- *400 g* Paneer
 - *4* Knoblauchzehen
 - *20 g* Ingwer
 - *1* Zwiebel
@@ -16,17 +29,20 @@
 - *1 TL* Kreuzkümmel, ganz
 - *1 kg* gefrorener Spinat, möglichst ganze Blätter
 - *1* kleine Dose gehackte Tomaten
-- *400 ml* Schlagsahne
+- *400 ml* Schlagsahne oder vegane Sahne
 - *1* Kardamom-Kapsel
 - *2* Lorbeer-Blätter
 - Kurkuma, gemahlen
 - Koriander, gemahlen
 - Krezukümmel, gemahlen
-- Hing
+- Hing / Asafetida
 
 ---
 
-1. Paneer würfeln, in einer Schüssel mit Salz und Kurkuma würfeln. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel leicht gebräunt sind. 
+1. Paneer oder alternative zubereiten:
+   - klassisch: Paneer würfeln, in einer Schüssel mit Salz und Kurkuma würfeln. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel leicht gebräunt sind. 
+   - feta: Feta würfeln, beiseite stellen
+   - vegan: Tofu zwischen trockenen Tüchern pressen. Miso mit Öl und Zitronensaft verrühren, kräftig mit Salz und Pfeffer würzen. Tofu mit Marinade mischen. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel leicht gebräunt sind. 
 
 2. Knoblauch, Ingwer und Zwiebeln und Chilis fein würfeln. In reichlich Ghee zusammen mit dem ganzen Kreuzkümmel und den Senfkörnern anbraten. Lorbeer und Kardamom dazugeben, kurz mitbraten.
 
@@ -34,4 +50,4 @@
 
 4. Spinat dazugeben und köcheln, bis der Spinat vollständig aufgetaut ist. Sahne dazugeben und einkochen.
 
-5. Hälfte des Spinats abnehmen und pürieren, dann wieder zurückgeben. Gebackenen Paneer dazu tun und abschmecken. Mit indischem Reis oder Naan-Brot servieren.
+5. Hälfte des Spinats abnehmen und pürieren, dann wieder zurückgeben, abschmecken. Paneer (oder alternative) dazu tun und kurz mitkochen oder separat servieren. Mit indischem Reis oder Naan-Brot servieren.
