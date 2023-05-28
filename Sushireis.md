@@ -17,7 +17,7 @@
 
 ---
 
-- Für Sushi-Zu (Sushi-Essig) Reisessig, Zucker und Salz in einem kleinen Topf unter Rühren erwärmen, bis sich Zucker und Salz aufgelöst haben. Kühl stellen.
+- Für Sushi-Zu (Sushi-Essig) Reisessig, Zucker und Salz in ein Schraubglas geben. Gut schütteln, um Zucker umd Salz aufzulösen. Bei Bedarf das Glas in einem Wasserbad erwärmen. Kühl stellen. Für größere Mengen alternativ die Mischung in einem kleinen Topf unter Rühren erwärmen, bis sich Zucker und Salz aufgelöst haben.
 
 - Reis mit kaltem Wasser bedecken, kneten. Durch ein Sieb abgießen. So oft Wasser dazugießen, bis es klar ist. Den Reis in der angegebenen Menge Wasser ca. 30 Min. ruhen lassen.
 
