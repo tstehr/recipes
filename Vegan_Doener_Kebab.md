@@ -1,6 +1,6 @@
 # Vegan Döner Kebab
 
-**1200 g**
+**1200 g, 10 Döner**
 
 ---
 
