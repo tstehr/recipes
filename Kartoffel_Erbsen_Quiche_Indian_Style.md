@@ -23,10 +23,10 @@
 
 ## Füllung
 
-- *700 g* vorwiegend festkochendeKartoffeln
+- *700 g* vorwiegend festkochende Kartoffeln
 - *100 g* Lauchzwiebeln
 - *20 g* glatte Petersilie (20 g ≈ 1 Bund)
-- *10 * Minze (20 g ≈ 1 Bund)
+- *10 g* Minze (20 g ≈ 1 Bund)
 - *1* rote Chilischote (oder Chiliflocken)
 - *100 g* TK-Erbsen
 - *265 g* Kichererbsen, abgetropft (265 g ≈ 1 Dose á 400 g)
@@ -37,15 +37,17 @@
 
 ---
 
-- Form fetten. Aus Teigzutaten Mürbeteig herstellen, in die Form drücken und 4cm Rand stehen lassen. Teig einstechen und kalt stellen.
+-  Kartoffeln schälen, in 2 mm dicke Scheiben schneiden oder hobeln. Für ca 10 Minuten in Salzwasser vorkochen, dann abgießen und kalt abspülen.
 
+- Form fetten. Aus Teigzutaten Mürbeteig herstellen, in die Form drücken und 4cm Rand stehen lassen. Teig einstechen und kalt stellen.
+ 
 - Für den Guss Kokosmilch, Hafersahne, Brühepulver und Stärke in einer Schüssel mit dem Schneebesen gut verrühren und mit Salz, Cayennepfeffer, Currypulver und Kreuzkümmel würzen. Knoblauch schälen und dazureiben oder pressen.
 
 - Backofen auf 200 °C vorheizen
 
 - Für die Füllung. Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Petersilie und Minze kalt abbrausen, trocken schütteln, Blättchen abzupfen und fein hacken. Chili waschen, putzen, längs halbieren, auf Wunsch entkernen und Hälften quer in feine Streifen schneiden. 
 
--  Kartoffeln schälen, in 2 mm dicke Scheiben schneiden oder hobeln. Mit der Hälfte des Guss' vermischen, dabei darauf achten, dass die Kartoffelscheiben möglichst nicht mehr aneinanderkleben.
+- Kartoffeln mit der Hälfte des Guss' vermischen, dabei darauf achten, dass die Kartoffelscheiben möglichst nicht mehr aneinanderkleben.
 
 -  Kartoffeln auf dem Teigboden verteilen, dann Lauchzwiebeln, Petersilie, Minze, Chili und Erbsen auf den darauf geben. 
 
