@@ -28,9 +28,11 @@
 - *200 g* Couscous
 - *1 Bund* glatte Petersilie
 - *1 Bund* Minze 
-- *2* Bio-Zitronen
+- *1 TL* Zitronenschale
+- *100 ml* Zitronensaft (1 Zitrone ≈ 50 ml)
 - *2 EL* Olivenöl
 - *50 g* Mandelkerne 
+- *250 ml* Wasser
 
 ## Dip
 
@@ -42,30 +44,28 @@
 ## Außerdem
 
 - Backpapier 
-- Auf Wunsch: Minze fūr die Garnitur
+- Auf Wunsch: Minze für die Garnitur
 
 ---
 
-1. Für den Kürbis Backofen auf 200 C vorheizen. Kūrbis waschen, putzen,
-   vierteln, Kerne und faseriges Gewebe entfernen Viertel in ca. 2 am dicke
+1. Für den Kürbis Backofen auf 200 C vorheizen. Kürbis waschen, putzen,
+   vierteln, Kerne und faseriges Gewebe entfernen. Viertel in ca. 2 cm dicke
    Spalten schneiden, diese in ca. 2-3 cm große Stücke schneiden und in einer
    großen Schüssel mit Öl, Salz und Pfeffer vermischen. Auf mit Backpapier
    belegtem Backblech verteilen und ca. 20 Minuten backen.
 
-2. inzwischen für die Tomaten Zwiebeln und Knoblauch schälen und fein würfeln.
+2. Inzwischen für die Tomaten Zwiebeln und Knoblauch schälen und fein würfeln.
    Aprikosen in ca. 0,5 cm breite Streifen schneiden. Öl in mittelgroßem Topf
    erhitzen und Zwiebeln und Knoblauch darin ca. 2 Minuten bei mittlerer Hitze
    anschwitzen. Tomatenmark zugeben und 1 Minute mit anbraten. Aprikosen und
-   Tomaten ebenfalls zugeben. Alles im offenen Topf unter gelegentlichem Ruhren
+   Tomaten ebenfalls zugeben. Alles im offenen Topf unter gelegentlichem Rühren
    ca. 1O Minuten bei niedriger bis mittlerer Hitze köcheln lassen. Tomaten mit
    Salz, Pfeffer und Zimt abschmecken.
 
-3. Inzwischen Couscous in eine Schüssel geben, mit 250 ml kochendem Wasser
+3. Inzwischen Couscous in eine Schüssel geben, mit kochendem Wasser
    übergießen und ca. 5 Minuten quellen lassen. Petersilie und Minze kalt
-   abbrausen, trocken schütteln, Blättchen abzupfen und fein hacken. 1 Zitrone
-   heiß abwaschen, trocken reiben, 1 TL Schale fein abreiben und aus beiden
-   Zitronen Saft auspressen. Öl, Schalenabrieb, 3/4 des Zitronensafts,
-   Petersilie und Minze unter Couscous mischen und mit Salz und Pfeffer würzen.
+   abbrausen, trocken schütteln, Blättchen abzupfen und fein hacken. Öl, Zitronenschale,
+   3/4 des Zitronensafts, Petersilie und Minze unter Couscous mischen und mit Salz und Pfeffer würzen.
    Mandeln grob hacken, in kleiner Pfanne ohne Fett rösten, bis sie fein duften,
    herausnehmen und zur Seite stellen. 
 
