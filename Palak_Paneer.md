@@ -39,15 +39,25 @@
 
 ---
 
-1. Paneer oder alternative zubereiten:
-   - klassisch: Paneer würfeln, in einer Schüssel mit Salz und Kurkuma würfeln. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel leicht gebräunt sind. 
+1. Paneer oder Alternative zubereiten:
+   - klassisch: Paneer würfeln, in einer Schüssel mit Salz und Kurkuma würzen. Auf ein Backblech geben und bei 180 °C backen, bis
+     die Würfel leicht gebräunt sind. 
    - feta: Feta würfeln, beiseite stellen
-   - vegan: Tofu zwischen trockenen Tüchern pressen. Miso mit Öl und Zitronensaft verrühren, kräftig mit Salz und Pfeffer würzen. Tofu mit Marinade mischen. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel leicht gebräunt sind. 
+   - vegan: Tofu in Scheiben schneiden zwischen trockenen Tüchern pressen, dann würfeln. Miso mit Öl und Zitronensaft verrühren,
+     kräftig mit Salz und Pfeffer würzen. Tofu mit Marinade mischen. Auf ein Backblech geben und bei 180 °C backen, bis die Würfel
+     leicht gebräunt sind. 
 
-2. Knoblauch, Ingwer und Zwiebeln und Chilis fein würfeln. In reichlich Ghee zusammen mit dem ganzen Kreuzkümmel und den Senfkörnern anbraten. Lorbeer und Kardamom dazugeben, kurz mitbraten.
+2. Knoblauch, Ingwer und Zwiebeln und Chilis fein würfeln. In reichlich Ghee zusammen mit dem ganzen Kreuzkümmel und den
+   Senfkörnern anbraten. Lorbeer und Kardamom dazugeben, kurz mitbraten.
 
 3. Tomaten dazugeben und mit Salz, Kurkuma, Koriander, Kreuzkümmel und Hing würzen. Kurz köcheln, bis sich alles vermischt hat. 
 
 4. Spinat dazugeben und köcheln, bis der Spinat vollständig aufgetaut ist. Sahne dazugeben und einkochen.
 
-5. Hälfte des Spinats abnehmen und pürieren, dann wieder zurückgeben, abschmecken. Paneer (oder alternative) dazu tun und kurz mitkochen oder separat servieren. Mit indischem Reis oder Naan-Brot servieren.
+5. Lorbeer und Kardamom aus dem Topf entfernen. 
+
+6. Eine Hälfte des Spinats abnehmen und glatt pürieren. Die andere Hälfte nur kurz pürieren, sodass sie noch etwas stückig bleibt. 
+
+7. Allen Spinat zurück in den den Topf geben und abschmecken. 
+
+6. Paneer (oder Alternative) dazu tun und kurz mitkochen oder separat servieren. Mit indischem Reis oder Naan-Brot servieren.
