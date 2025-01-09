@@ -1,5 +1,7 @@
 # 2020 Mittendurch
 
+*event*
+
 ---
 
 - *50 Portionen* [Kichererbsen-Kartoffel-Curry](../Kichererbsen_Kartoffel_Curry.md)

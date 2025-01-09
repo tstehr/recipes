@@ -2,6 +2,8 @@
 
 Frühstücksdinge.
 
+*event*
+
 **1 Personen**
 
 ---

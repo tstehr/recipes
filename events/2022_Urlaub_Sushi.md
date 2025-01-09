@@ -1,5 +1,7 @@
 # 2022 Urlaub Sushi
 
+*event*
+
 ---
 
 ## Sushi

@@ -2,7 +2,7 @@
 
 Als Stärkebeilage traditionell Semmeln, alternativ geht aber auch Kartoffeln, Nudeln etc.
 
-*beef, stew, fall, winter*
+*beef, stew, fall, winter, event*
 
 **4 Personen**
 

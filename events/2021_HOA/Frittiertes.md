@@ -1,5 +1,7 @@
 # Frittiertes
 
+*event*
+
 ---
 
 - *15 kg* Steakhousepommes
