@@ -16,7 +16,7 @@ pdfs:
 
 pdfs/%.pdf : %.md
 	@mkdir -p "$(@D)"
-	pandoc --pdf-engine=xelatex -V geometry:margin=1cm -V geometry:a4paper -V geometry:includefoot $< -o $@
+	./_typst.sh $< $@
 
 clean:
 	$(RM) -r pdfs
