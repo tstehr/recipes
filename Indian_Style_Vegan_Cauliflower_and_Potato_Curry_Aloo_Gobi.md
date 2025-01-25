@@ -1,6 +1,7 @@
 # Indian-Style Vegan Cauliflower and Potato Curry (Aloo Gobi)
 
 Vegan cauliflower and potato curry, otherwise known as aloo gobi, is a popular vegetarian, vegan, and gluten-free Indian-style curry dish.
+
 *Entree, Side Dish, Indian, Tomato*
 
 **4 servings**
