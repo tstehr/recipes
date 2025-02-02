@@ -13,6 +13,8 @@ cat << EOF | typst compile - $output_file
   #body
 ]
 
+#show link: underline
+
 #set page(
   footer: context [
     #if counter(page).final().at(0) > 1 {
