@@ -9,7 +9,7 @@ Use these steamed bao buns to make Chinese burgers. Kathy fills hers with crumbe
 ---
 
 - *2 tbsp* Caster sugar
-- *1¼ tsp* Active dried yeast
+- *1 ¼ tsp* Active dried yeast
 - *200 ml* Warm water, or a dash more if needed
 - *300 g* Plain flour
 - *1 tsp* Salt
