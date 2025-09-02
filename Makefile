@@ -3,7 +3,8 @@
 MDS = $(shell fd -I -t f '.*\.md')
 PDFS := $(patsubst %.md,pdfs/%.pdf,$(MDS))
 
-all: filenames images pdfs
+all: filenames images
+	$(MAKE) pdfs
 
 filenames: 
 	python _filenames.py
