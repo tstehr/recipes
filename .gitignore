@@ -1,3 +1,5 @@
 .idea/
 .python-version
 pdfs/
+pdfs-flattened/
+.temp
