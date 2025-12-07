@@ -1,6 +1,7 @@
 # Frühstücks-Bacon
 
 *event*
+
 **1 Personen**
 
 ---
