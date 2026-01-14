@@ -17,7 +17,7 @@ Nach [diesem großartigen Video](https://www.youtube.com/watch?app=desktop&v=Z-h
 
 - Trockene Zutaten in einer Schüssel vermischen
 - Wasser dazugeben, unterrühren bis sich ein Teigball bildet und kein trockenes Mehl übrig ist
-- Schüssel mit einem feuchten Tuch abdecken und für 8 bis 10 Minuten gehen lassen, z.B. im ausgeschalteten Ofen
+- Schüssel mit einem feuchten Tuch abdecken und für 8 bis 10 Stunden gehen lassen, z.B. im ausgeschalteten Ofen
 
 ## Backen (ca. 3 Minuten)
 
