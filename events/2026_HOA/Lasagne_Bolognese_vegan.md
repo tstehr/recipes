@@ -10,17 +10,17 @@
 
 ## Bechamel
 
-- *84 g* vegane Butter
-- *84 g* Mehl
-- *28 g* Tapiokastärke
-- *840 ml* Wasser
-- *84 g* Sojamilch-Pulver
-- *9 g* Hefeflocken
-- *1.8 g* Parmesan-Aroma
-- *12 g* Miso
-- *0.45 g* Milchsäurepulver
-- *0.52 g* Lorbeerblätter
-- *2.8 g* Muskatnuss
+- *120 g* vegane Butter
+- *120 g* Mehl
+- *40 g* Tapiokastärke
+- *1 l* Wasser
+- *130 g* Sojamilch-Pulver
+- *14 g* Hefeflocken
+- *2.5 g* Parmesan-Aroma
+- *18 g* Miso
+- *0.7 g* Milchsäurepulver
+- *0.8 g* Lorbeerblätter
+- *4.2 g* Muskatnuss
 
 ## Bolognese
 
