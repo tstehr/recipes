@@ -2,7 +2,7 @@
 
 *vegan*
 
-**4 Personen, 500 cm²**
+**4 Personen, 900 cm², 1.33 Einweg-Formen**
 
 ---
 
@@ -15,12 +15,16 @@
 - *40 g* Tapiokastärke
 - *1 l* Wasser
 - *130 g* Sojamilch-Pulver
+- *22 g* Miso
+
+### Gewürze
+
 - *14 g* Hefeflocken
-- *2.5 g* Parmesan-Aroma
-- *18 g* Miso
-- *0.7 g* Milchsäurepulver
+- *2.51 g* Parmesan-Aroma
+- *0.69 g* Milchsäurepulver
 - *0.8 g* Lorbeerblätter
 - *4.2 g* Muskatnuss
+- *7 g* Salz
 
 ## Bolognese
 
@@ -41,23 +45,64 @@
 
 ### Sauce
 
-- *90 ml* Rotwein, trocken (vegan)
+- *150 ml* Rapsöl
 - *42 g* Tomatenmark
+- *90 ml* Rotwein, trocken (vegan)
 - *480 g* Dosentomaten, gehackt (Gesamtgewicht)
 - *0.4 g* Lorbeerblätter
-- *150 ml* Olivenöl
 - *24 ml* dunkle Sojasauce
-- *1.8 Trp* Flüssigrauch
 - *200 ml Brühe* [Veganes Rinderbrühen-Pulver](./Veganes_Rinderbruehen_Pulver.md)
 - *6 g* Gemüsebrühe-Pulver
+- *30 ml* Bechamel
+
+#### Gewürze
+
+- *1.8 Trp* Flüssigrauch
 - *9 g* Balsamico
 - *0.4 g* Pfeffer
 - *6 g* Paprikagewürz
 - *7.2 g* Zucker
-- *30 ml* Bechamel
 
 ---
 
-- Flüssigkeit aus Hack mit in Sauce
-- 10 Schichten, abwechselnd Bechamel und Bolognese
-- ca 6cm hoch schichten
+## Bechamel
+
+- Butter in Topf schmelzen, Mehl dazugeben und anschwitzen
+- Wasser nach und nach dazugeben
+- Sojamilch-Pulver dazugeben
+- Tapiokastärke und Miso mit etwas Wasser anrühren und dazugeben
+- Mit Gewürzen abschmecken
+
+## Bolognese
+
+- Soja-Hack mit kochendem Wasser aufgießen
+- Sojasauce und Brüh-Gewürz dazugeben
+
+- Möhren, Sellerie und Zwiebeln grob zerkleinern
+- In der Küchenmaschine in kleine Stücke häckseln, ggf. portionsweise
+
+- Gemüse bei mittlerer Hitze anschwitzen
+- Hack mit Flüssigkeit dazugeben, mitbraten
+- Gehackten Knoblauch dazugeben, kurz mitbraten
+- Tomatenmark unterrühren, kurz mitbraten
+- Mit Rotwein ablöschen
+- Dosen-Tomaten, Lorbeerblätter und Brüh-Gewürz zugeben, köcheln lassen
+- Angegebene Menge Bechamel zugeben
+- Mit Gewürzen abschmecken
+
+## Konstruktion
+
+- Mit Bolognese anfangen, dann Nudeln, Bechamel, Nudeln, Bolognese usw. schichten
+- Ca 5 cm hoch schichten, sodass insgesamt 5 Nudelschichten/6 Saucenschichten
+  entstehen. Mit Bechamel abschließen
+
+## Backen
+
+- Ca. 30 min bei 200º Umluft backen
+
+## Einfrieren
+
+- Ungebacken mit Form einvakuumiren
+- Aus dem Vakuumbeutel nehmen und mit Alufolie abdecken
+- Bei 200º Umluft direkt aus dem TK 1 h backen
+- Nach 45 min die Alufolie entfernen und bräunen
