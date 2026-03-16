@@ -11,26 +11,27 @@ Chrissi^](https://gitli.stratum0.org/chrissi/recipes/-/blob/main/Hauptgerichte/K
 
 ## Kartoffelbasis
 
+- *100 ml* Rapsöl
 - *160 g* Lauch
 - *260 g* Gemüsezwiebel
 - *200 g* Sellerie
 - *200 g* Möhren
 - *1400 g* Kartoffeln, mehligkochend
-- *120 g* vegane Butter (z.B. Alsan)
+- *60 g* vegane Butter (z.B. Alsan)
 - *200 g* Vegane Crème fraîche
 - *10 ml* Apfelessig
-- *4 g* Majoran
+- *6 g* Majoran
+- *15 g* Salz
+- *10 g* Gemüsebrühepulver
 - Wasser
-- Bratöl
-- Salz
 - Pfeffer
 
 ## Topping: Brokkoli
 
-- *500 g* Brokkoli, TK
-- *6 g* Salz
-- *20 ml* Zitronensaft
-- *40 ml* Bratöl
+- *1000 g* Brokkoli, TK
+- *12 g* Salz
+- *40 ml* Zitronensaft
+- *80 ml* Rapsöl
 
 ## Topping: Krümeltofu
 
@@ -39,15 +40,15 @@ Chrissi^](https://gitli.stratum0.org/chrissi/recipes/-/blob/main/Hauptgerichte/K
 - *80 g* Gemüsezwiebel
 - *30 g* Tomatenmark
 - *6 g* Knoblauch
-- *60 ml* dunkle Sojasoße
+- *40 ml* dunkle Sojasoße
 - *3 g* Paprika, edelsüß
 - *3 Tropfen* Flüssigrauch
 
 ## Zum Servieren
 
-- *100 g* Röstzwiebeln
+- *70 g* Röstzwiebeln
 - *200 g* Vegane Crème fraîche
-- *10 g* Petersilie
+- *15 g* Glatte Petersilie
 
 ---
 
