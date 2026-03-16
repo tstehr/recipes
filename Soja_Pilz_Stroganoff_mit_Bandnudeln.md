@@ -30,8 +30,8 @@
 ## Sauce
 
 - *125 ml* Rotwein, trocken
-- *100 ml* Wasser
-- *200 g* Sojasahne
+- *200 ml* Wasser
+- *300 g* Sojasahne
 - *20 g* Senf
 - *5 g* Speisestärke
 - *4 ml* Worcestersoße
