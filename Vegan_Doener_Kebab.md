@@ -1,28 +1,28 @@
 # Vegan Döner Kebab
 
-**1200 g, 10 Döner**
+**1.8 kg, 15 Döner, 6 l (frozen in bags), 1 bamboo steamer basket (⌀ 28 cm)**
 
 ---
 
 ## Seitan
 
-- *450 g* vital wheat gluten
-- *150 g* gram flour
-- *50 g* nutritional yeast flakes
-- *4 tbsp* [Döner Spice Blend](./Doener_Spice_Blend.md)
-- *1 tbsp* salt
-- *350 ml* water
-- *2 tbsp* Marmite
-- *50 ml* ligh soy sauce (or dark, depending on appearance preference)
-- *2 tbsp* tomato paste
+- *675 g* vital wheat gluten
+- *225 g* gram flour
+- *75 g* nutritional yeast flakes
+- *6 tbsp* [Döner Spice Blend](./Doener_Spice_Blend.md)
+- *1.5 tbsp* salt
+- *525 ml* water
+- *3 tbsp* Marmite
+- *75 ml* ligh soy sauce (or dark, depending on appearance preference)
+- *3 tbsp* tomato paste
 
 ## Marinade
 
-- *6 tbsp* [Döner Spice Blend](./Doener_Spice_Blend.md)
-- *4 tbsp* tomato paste
-- *100 ml* dark soy sauce
-- *150 ml* olive oil
-- *2 tbsp* simple syrup, maple syrup or agave syrup
+- *9 tbsp* [Döner Spice Blend](./Doener_Spice_Blend.md)
+- *6 tbsp* tomato paste
+- *150 ml* dark soy sauce
+- *225 ml* olive oil
+- *3 tbsp* simple syrup, maple syrup or agave syrup
 - Salt
 
 ---
