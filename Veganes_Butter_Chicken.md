@@ -10,29 +10,33 @@
 - *150 g* Zwiebeln
 - *1.5 g* Backnatron
 - *15 g* Ingwer
-- *12 g* Knoblauch
+- *25 g* Knoblauch
 - *30 g* Cashews, ungeröstet, ungesalzen
 - *250 ml* Wasser
 - *800 g* geschälte Tomaten (Konserve)
 - *250 ml* Sojasahne
-- *60 g* vegane Butter
+- *100 g* vegane Butter
 
 ### Gewürze
 
-- *24 g* Bockshornklee, gemahlen
-- *0.13 g* Nelke, gemahlen
+- *8 g* Bockshornklee, gemahlen
+- *0.1 g* Nelke, gemahlen
 - *1 g* Kardamom, gemahlen
 - *15 g* Garam Masala
+- *15 g* Paprikapulver
+- *13 g* gemahlener Kreuzkümmel
+- *20 g* Kurkuma
 - *3 g* Salz
+- *8 g* Zucker
 
 ## Marinade
 
-- *150 g* Sojajoghurt
-- *8 g* Bockshornklee, gemahlen
+- *200 g* Sojajoghurt
+- *3 g* Bockshornklee, gemahlen
 - *20 g* Garam Masala
 - *8 g* Ingwer
 - *5 g* Salz
-- *6 g* Pfeffer, gemahlen
+- *3 g* Pfeffer, gemahlen
 
 ## Hähnchen
 
