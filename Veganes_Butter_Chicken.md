@@ -1,6 +1,6 @@
 # Veganes Butter Chicken
 
-**10 Personen**
+**10 Personen, 2.7 l**
 
 ---
 
@@ -19,14 +19,15 @@
 
 ### Gewürze
 
-- *8 g* Bockshornklee, gemahlen
-- *0.1 g* Nelke, gemahlen
-- *1 g* Kardamom, gemahlen
-- *15 g* Garam Masala
-- *15 g* Paprikapulver
-- *13 g* gemahlener Kreuzkümmel
-- *20 g* Kurkuma
-- *3 g* Salz
+- *2 g* Bockshornklee, gemahlen
+- *0.05 g* Nelke, gemahlen
+- *0.5 g* Kardamom, gemahlen
+- *7.5 g* Garam Masala
+- *7.5 g* Paprikapulver
+- *10 g* gemahlener Kreuzkümmel
+- *10 g* Kurkuma
+- *10 g* Salz
+- *140 ml Brühe* CHEF Flüssiges Konzentrat Vegan Like Chicken (https://www.metro.de/marktplatz/product/4d2fd05b-7aa6-4573-8225-2e4924b9f541) oder [veganer Hühnerbrühe](https://raw.githubusercontent.com/dasnessie/recipes/refs/heads/master/huehnerbruehe.md)
 - *8 g* Zucker
 
 ## Marinade
@@ -36,13 +37,13 @@
 - *20 g* Garam Masala
 - *8 g* Ingwer
 - *5 g* Salz
-- *3 g* Pfeffer, gemahlen
+- *1.7 g* Pfeffer, gemahlen
 
 ## Hähnchen
 
 - *400 g* Sojaschnetzel, mittelgrob
 - *1000 ml Brühe* aus CHEF Flüssiges Konzentrat Vegan Like Chicken (https://www.metro.de/marktplatz/product/4d2fd05b-7aa6-4573-8225-2e4924b9f541) oder [veganer Hühnerbrühe](https://raw.githubusercontent.com/dasnessie/recipes/refs/heads/master/huehnerbruehe.md)
-- *125 ml* Rapsöl
+- *140 ml* Rapsöl
 
 ## Beilage
 
@@ -64,12 +65,12 @@
 - Marinade-Zutaten vermischen
 - Ausgepresste Sojaschnetzel hineingeben & marinieren
 - Zur Zubereitung
-    - Entweder mit Öl vermischen und 20 min bei 200 ªC Umluft backen
+    - Entweder mit Öl vermischen und 20 min bei 200 ºC Umluft backen
     - Oder portionsweise Anbraten
 
 ## Sauce
 
-- Zwiebeln mit Backpulver anbraten, bis komplett zerfallen
+- Zwiebeln mit Natron anbraten, bis komplett zerfallen
 - Nach Bedarf mit Wasser ablöschen um anbrennen zu verhindern
 - Knoblauch & Ingwer dazugeben und kurz mitbraten
 - Teil der Gewürze dazugeben
