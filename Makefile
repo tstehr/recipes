@@ -9,17 +9,17 @@ all: filenames images
 	$(MAKE) pdfs-flattened
 
 filenames: 
-	python _filenames.py
+	python _tools/filenames.py
 
 images:
-	python _images.py
+	python _tools/images.py
 
 pdfs: 
 	$(MAKE) -j12 $(PDFS)
 
 pdfs/%.pdf : %.md
 	@mkdir -p "$(@D)"
-	./_typst.sh $< $@
+	./_tools/typst.sh $< $@
 
 pdfs-flattened:
 	$(MAKE) -j12 $(PDFS_FLATTENED)
@@ -29,7 +29,7 @@ pdfs-flattened/%.pdf: %.md
 	@tmpfile=$$(mktemp -p .temp); \
 	trap 'rm -f "$$tmpfile"' EXIT; \
 	recipemd --flatten "$<" > "$$tmpfile"; \
-	./_typst.sh "$$tmpfile" "$@" "$<" true
+	./_tools/typst.sh "$$tmpfile" "$@" "$<" true
 
 clean:
 	$(RM) -r pdfs pdfs-flattened
