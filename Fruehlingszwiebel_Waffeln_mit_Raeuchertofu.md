@@ -1,5 +1,7 @@
 # Frühlingszwiebel-Waffeln mit Räuchertofu
 
+![](./images/Fruehlingszwiebel_Waffeln_mit_Raeuchertofu.jpeg)
+
 *vegan*
 
 **8 Waffeln, 3 Portionen**
