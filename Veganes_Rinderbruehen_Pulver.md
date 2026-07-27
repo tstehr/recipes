@@ -2,7 +2,7 @@
 
 *vegan, vegetarisch, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember*
 
-**190 g, 32 TL, 3 l Brühe**
+**190 g, 32 TL, 3 l Brühe, 3000 ml Brühe**
 
 ---
 
