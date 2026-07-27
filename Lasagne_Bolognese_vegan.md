@@ -14,7 +14,7 @@
 - *120 g* Mehl
 - *40 g* Tapiokastärke
 - *1 l* Wasser
-- *130 g* Sojamilch-Pulver
+- *130 g* Sojamilch-Pulver (von [Hiela](https://hiela.de/de/verschiedenes/soja-pulver))
 - *22 g* Miso
 
 ### Gewürze
